@@ -1,0 +1,601 @@
+course_id,course_title,course_category,nsqf_level_simulated,duration_hours,taught_skills,data_status
+COURSE0001,Retail Associate - Training Module 1,Retail,6,200,Inventory; Customer; POS; Management; Communication; Service; Sales,SIMULATED - NOT NSQF VERIFIED
+COURSE0002,Civil CAD Technician - Training Module 2,Construction,5,300,BIM; AutoCAD; Surveying; Quantity; Revit,SIMULATED - NOT NSQF VERIFIED
+COURSE0003,Medical Lab Technician - Training Module 3,Healthcare,5.5,600,Medical; Records; Laboratory; Quality; Collection; Hematology; Sample; Safety; Control,SIMULATED - NOT NSQF VERIFIED
+COURSE0004,Cybersecurity Analyst - Training Module 4,IT-ITeS,5,200,Security; Network; Cloud; SIEM; Linux; Response; Python; Security,SIMULATED - NOT NSQF VERIFIED
+COURSE0005,Food Processing Technician - Training Module 5,Agriculture,3.5,200,Control; Equipment; Food; Quality; HACCP; Safety; Packaging,SIMULATED - NOT NSQF VERIFIED
+COURSE0006,Retail Associate - Training Module 6,Retail,3,120,Management; Service; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0007,Food Processing Technician - Training Module 7,Agriculture,4.5,600,Safety; Quality; Packaging; Food,SIMULATED - NOT NSQF VERIFIED
+COURSE0008,Medical Lab Technician - Training Module 8,Healthcare,6,800,Laboratory; Records; Quality; Medical,SIMULATED - NOT NSQF VERIFIED
+COURSE0009,Automotive QA Inspector - Training Module 9,Automotive,5,600,Metrology; ISO; Quality; Analysis,SIMULATED - NOT NSQF VERIFIED
+COURSE0010,Supply Chain Analyst - Training Module 10,Retail,3.5,600,Excel; BI; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0011,Retail Associate - Training Module 11,Retail,4.5,300,Customer; Service; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0012,Hospitality Revenue Analyst - Training Module 12,Tourism & Hospitality,4,200,Excel; Revenue; SQL; Pricing; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0013,Financial Analyst - Training Module 13,BFSI,3.5,120,Financial; Power; SQL; Excel; Accounting; Modeling; BI,SIMULATED - NOT NSQF VERIFIED
+COURSE0014,Cloud Engineer - Training Module 14,IT-ITeS,5,120,Terraform; Linux; Docker,SIMULATED - NOT NSQF VERIFIED
+COURSE0015,Cloud Engineer - Training Module 15,IT-ITeS,6,300,Kubernetes; Docker; CI/CD,SIMULATED - NOT NSQF VERIFIED
+COURSE0016,Healthcare Assistant - Training Module 16,Healthcare,4.5,400,Care; Aid; Control; First; Infection; Vital; Documentation,SIMULATED - NOT NSQF VERIFIED
+COURSE0017,Banking Operations Associate - Training Module 17,BFSI,3,120,Customer; Compliance; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0018,Web Developer - Training Module 18,IT-ITeS,6,800,Node.js; Git; REST; JavaScript; MongoDB; HTML,SIMULATED - NOT NSQF VERIFIED
+COURSE0019,Automotive QA Inspector - Training Module 19,Automotive,4,300,Cause; Inspection; Metrology; Standards; ISO; Root,SIMULATED - NOT NSQF VERIFIED
+COURSE0020,Site Safety Supervisor - Training Module 20,Construction,3.5,400,Safety; Site; Occupational; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0021,Data Scientist - Training Module 21,IT-ITeS,5.5,400,Git; Visualization; Python; Machine; SQL; Learning; Statistics; Data,SIMULATED - NOT NSQF VERIFIED
+COURSE0022,CNC Operator - Training Module 22,Automotive,6,800,Inspection; CNC; Operation; CAM; CAD; Machine; Programming,SIMULATED - NOT NSQF VERIFIED
+COURSE0023,CNC Operator - Training Module 23,Automotive,5,200,CAM; Inspection; Machine; CAD; Programming; Operation; CNC,SIMULATED - NOT NSQF VERIFIED
+COURSE0024,Financial Analyst - Training Module 24,BFSI,4,200,SQL; BI; Modeling; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0025,Instructional Designer - Training Module 25,"Education, Training & Research",4,600,LMS; Development; Content; Design; Accessibility; Curriculum,SIMULATED - NOT NSQF VERIFIED
+COURSE0026,Hotel Operations Associate - Training Module 26,Tourism & Hospitality,5.5,400,Communication; Guest; Reservation,SIMULATED - NOT NSQF VERIFIED
+COURSE0027,CNC Operator - Training Module 27,Automotive,4.5,800,CAD; Quality; Operation; CNC,SIMULATED - NOT NSQF VERIFIED
+COURSE0028,Site Safety Supervisor - Training Module 28,Construction,5,120,Site; PPE; Compliance; Safety; Occupational,SIMULATED - NOT NSQF VERIFIED
+COURSE0029,Data Scientist - Training Module 29,IT-ITeS,3.5,200,Learning; Machine; Git; Statistics; Scikit-learn; SQL; Python; Pandas,SIMULATED - NOT NSQF VERIFIED
+COURSE0030,CNC Operator - Training Module 30,Automotive,3,300,Machine; CAM; CAD; Inspection; Programming; Operation,SIMULATED - NOT NSQF VERIFIED
+COURSE0031,Healthcare Assistant - Training Module 31,Healthcare,3,400,Patient; Documentation; Signs; Aid; Infection,SIMULATED - NOT NSQF VERIFIED
+COURSE0032,ML Engineer - Training Module 32,IT-ITeS,5.5,800,Git; TensorFlow; MLOps; PyTorch; Python; Kubernetes; AWS; Docker,SIMULATED - NOT NSQF VERIFIED
+COURSE0033,Cloud Engineer - Training Module 33,IT-ITeS,4.5,800,Docker; AWS; CI/CD; Azure; Linux,SIMULATED - NOT NSQF VERIFIED
+COURSE0034,Retail Associate - Training Module 34,Retail,5.5,300,Customer; POS; Communication; Service; Inventory; Sales; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0035,Banking Operations Associate - Training Module 35,BFSI,3,800,KYC; Customer; AML; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0036,Banking Operations Associate - Training Module 36,BFSI,4,800,AML; KYC; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0037,Retail Associate - Training Module 37,Retail,4,600,POS; Customer; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0038,EV Technician - Training Module 38,Automotive,5,800,Battery; Management; EV; Diagnostics; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0039,Automotive QA Inspector - Training Module 39,Automotive,5,300,Inspection; Quality; Cause; Root; Metrology; Analysis; Standards; ISO,SIMULATED - NOT NSQF VERIFIED
+COURSE0040,Supply Chain Analyst - Training Module 40,Retail,3,400,BI; SQL; Forecasting; Excel; Logistics; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0041,Automotive QA Inspector - Training Module 41,Automotive,5.5,200,ISO; Cause; Quality; Inspection; Root; Analysis,SIMULATED - NOT NSQF VERIFIED
+COURSE0042,5G Engineer - Training Module 42,Telecom,5.5,600,Python; 5G; Protocols; RF; Optimization; Telecom; Planning; Network,SIMULATED - NOT NSQF VERIFIED
+COURSE0043,Healthcare Assistant - Training Module 43,Healthcare,4,800,Care; Infection; Patient; Control; Vital; Documentation,SIMULATED - NOT NSQF VERIFIED
+COURSE0044,Medical Lab Technician - Training Module 44,Healthcare,3.5,200,Medical; Records; Sample; Collection; Control; Laboratory; Quality; Hematology,SIMULATED - NOT NSQF VERIFIED
+COURSE0045,Automotive QA Inspector - Training Module 45,Automotive,4,120,Metrology; ISO; Inspection; Standards; Analysis; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0046,Data Analyst - Training Module 46,IT-ITeS,6,200,SQL; Statistics; Excel; BI; Power; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0047,Supply Chain Analyst - Training Module 47,Retail,6,200,BI; Inventory; Power; Forecasting,SIMULATED - NOT NSQF VERIFIED
+COURSE0048,Healthcare Assistant - Training Module 48,Healthcare,6,120,Infection; Vital; First; Patient; Care; Signs,SIMULATED - NOT NSQF VERIFIED
+COURSE0049,Hospitality Revenue Analyst - Training Module 49,Tourism & Hospitality,4.5,300,Forecasting; Analytics; Revenue,SIMULATED - NOT NSQF VERIFIED
+COURSE0050,Precision Farming Technician - Training Module 50,Agriculture,3,800,Testing; Mapping; IoT; Soil; Collection; Data,SIMULATED - NOT NSQF VERIFIED
+COURSE0051,Health Data Analyst - Training Module 51,Healthcare,5,300,Power; Healthcare; Excel; Python; SQL; Privacy; Analytics,SIMULATED - NOT NSQF VERIFIED
+COURSE0052,Food Processing Technician - Training Module 52,Agriculture,4,200,Equipment; Packaging; Food; HACCP; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0053,Fraud Analyst - Training Module 53,BFSI,5,300,Detection; Risk; Assessment; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0054,CNC Operator - Training Module 54,Automotive,4.5,120,Operation; CNC; Inspection; Programming; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0055,Hospitality Revenue Analyst - Training Module 55,Tourism & Hospitality,4.5,400,Pricing; Management; Analytics; Forecasting,SIMULATED - NOT NSQF VERIFIED
+COURSE0056,Supply Chain Analyst - Training Module 56,Retail,6,300,Forecasting; Logistics; BI; SQL; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0057,Retail Associate - Training Module 57,Retail,5.5,200,POS; Communication; Service; Customer; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0058,Instructional Designer - Training Module 58,"Education, Training & Research",3.5,600,LMS; Development; Assessment; Content; Curriculum; Accessibility,SIMULATED - NOT NSQF VERIFIED
+COURSE0059,Instructional Designer - Training Module 59,"Education, Training & Research",6,400,Accessibility; LMS; Content; Design; Development; Assessment; Curriculum,SIMULATED - NOT NSQF VERIFIED
+COURSE0060,CNC Operator - Training Module 60,Automotive,3,800,CAM; Operation; Programming; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0061,Precision Farming Technician - Training Module 61,Agriculture,4.5,120,Collection; Sensors; Data; IoT; GIS; Soil,SIMULATED - NOT NSQF VERIFIED
+COURSE0062,Data Scientist - Training Module 62,IT-ITeS,4,400,Machine; Scikit-learn; Data; Git; Learning; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0063,Web Developer - Training Module 63,IT-ITeS,5.5,120,HTML; MongoDB; Node.js; CSS; JavaScript; React,SIMULATED - NOT NSQF VERIFIED
+COURSE0064,Network Technician - Training Module 64,Telecom,4.5,300,Switching; Networking; Troubleshooting,SIMULATED - NOT NSQF VERIFIED
+COURSE0065,Medical Lab Technician - Training Module 65,Healthcare,4.5,600,Sample; Records; Hematology; Quality; Medical; Laboratory; Collection; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0066,Instructional Designer - Training Module 66,"Education, Training & Research",4,600,Design; Accessibility; Assessment; Development; LMS; Curriculum; Content,SIMULATED - NOT NSQF VERIFIED
+COURSE0067,Precision Farming Technician - Training Module 67,Agriculture,4,300,IoT; Data; Mapping; Soil; Sensors; Drone,SIMULATED - NOT NSQF VERIFIED
+COURSE0068,EV Technician - Training Module 68,Automotive,5.5,200,Maintenance; EV; Electrical; Management; Battery,SIMULATED - NOT NSQF VERIFIED
+COURSE0069,Site Safety Supervisor - Training Module 69,Construction,3.5,800,Inspection; Compliance; Safety; Assessment; Site; PPE,SIMULATED - NOT NSQF VERIFIED
+COURSE0070,Retail Associate - Training Module 70,Retail,5,400,Customer; Service; Inventory; Management; Communication; POS; Sales,SIMULATED - NOT NSQF VERIFIED
+COURSE0071,ML Engineer - Training Module 71,IT-ITeS,4,200,Kubernetes; AWS; Python; PyTorch; Git; TensorFlow; MLOps; Docker,SIMULATED - NOT NSQF VERIFIED
+COURSE0072,5G Engineer - Training Module 72,Telecom,3,120,Python; Network; Protocols; Optimization,SIMULATED - NOT NSQF VERIFIED
+COURSE0073,Civil CAD Technician - Training Module 73,Construction,3,800,Codes; Quantity; Building,SIMULATED - NOT NSQF VERIFIED
+COURSE0074,Banking Operations Associate - Training Module 74,BFSI,5,300,Customer; AML; Banking; Excel; Compliance,SIMULATED - NOT NSQF VERIFIED
+COURSE0075,Automotive QA Inspector - Training Module 75,Automotive,4,600,Metrology; Quality; Cause; Analysis; Standards; ISO; Inspection; Root,SIMULATED - NOT NSQF VERIFIED
+COURSE0076,Precision Farming Technician - Training Module 76,Agriculture,5,120,Soil; Collection; Data; Testing; IoT; Mapping; Sensors; Drone,SIMULATED - NOT NSQF VERIFIED
+COURSE0077,Banking Operations Associate - Training Module 77,BFSI,5.5,200,AML; Excel; Banking,SIMULATED - NOT NSQF VERIFIED
+COURSE0078,Hotel Operations Associate - Training Module 78,Tourism & Hospitality,3.5,400,Communication; Reservation; Guest; Housekeeping,SIMULATED - NOT NSQF VERIFIED
+COURSE0079,Data Analyst - Training Module 79,IT-ITeS,3.5,800,SQL; Python; Excel; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0080,Data Scientist - Training Module 80,IT-ITeS,4,600,Data; Statistics; Pandas; SQL; Git; Visualization; Scikit-learn; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0081,Data Scientist - Training Module 81,IT-ITeS,5.5,200,Data; Python; Pandas; Learning; Git; Statistics; Scikit-learn; SQL; Visualization; Machine,SIMULATED - NOT NSQF VERIFIED
+COURSE0082,Hotel Operations Associate - Training Module 82,Tourism & Hospitality,4,120,Communication; Service; Housekeeping; Guest; Systems,SIMULATED - NOT NSQF VERIFIED
+COURSE0083,Technical Trainer - Training Module 83,"Education, Training & Research",3,600,Curriculum; LMS; Design; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0084,Cybersecurity Analyst - Training Module 84,IT-ITeS,5.5,120,Security; Network; Incident; Security,SIMULATED - NOT NSQF VERIFIED
+COURSE0085,Cloud Engineer - Training Module 85,IT-ITeS,5,400,Terraform; AWS; Kubernetes; Linux; Azure; Docker; CI/CD,SIMULATED - NOT NSQF VERIFIED
+COURSE0086,Automotive QA Inspector - Training Module 86,Automotive,3,800,Root; Quality; Analysis; Metrology; ISO; Cause; Inspection; Standards,SIMULATED - NOT NSQF VERIFIED
+COURSE0087,Site Safety Supervisor - Training Module 87,Construction,4.5,400,Risk; PPE; Safety; Compliance; Assessment; Site,SIMULATED - NOT NSQF VERIFIED
+COURSE0088,Hospitality Revenue Analyst - Training Module 88,Tourism & Hospitality,5.5,600,Forecasting; Pricing; Excel; Analytics; SQL; Management; Revenue,SIMULATED - NOT NSQF VERIFIED
+COURSE0089,Hospitality Revenue Analyst - Training Module 89,Tourism & Hospitality,6,400,Management; Pricing; Forecasting; Revenue; SQL; Excel; Analytics,SIMULATED - NOT NSQF VERIFIED
+COURSE0090,ML Engineer - Training Module 90,IT-ITeS,5,300,TensorFlow; Python; Kubernetes; AWS; MLOps; Git,SIMULATED - NOT NSQF VERIFIED
+COURSE0091,Healthcare Assistant - Training Module 91,Healthcare,4,800,Vital; Control; Care; Patient,SIMULATED - NOT NSQF VERIFIED
+COURSE0092,Data Analyst - Training Module 92,IT-ITeS,5,800,Tableau; Statistics; BI; Python; Power; SQL; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0093,Site Safety Supervisor - Training Module 93,Construction,3.5,400,Assessment; Occupational; Compliance; Inspection; Safety; PPE,SIMULATED - NOT NSQF VERIFIED
+COURSE0094,Site Safety Supervisor - Training Module 94,Construction,4,200,Occupational; Site; Risk; Assessment; Compliance; Safety; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0095,Technical Trainer - Training Module 95,"Education, Training & Research",4,600,Python; Teaching; Design,SIMULATED - NOT NSQF VERIFIED
+COURSE0096,Web Developer - Training Module 96,IT-ITeS,3,400,HTML; CSS; REST; JavaScript; MongoDB,SIMULATED - NOT NSQF VERIFIED
+COURSE0097,Healthcare Assistant - Training Module 97,Healthcare,4.5,600,Documentation; Signs; First; Control; Care; Infection; Aid; Patient; Vital,SIMULATED - NOT NSQF VERIFIED
+COURSE0098,Healthcare Assistant - Training Module 98,Healthcare,4.5,200,Care; Signs; First; Patient; Vital; Documentation; Infection; Aid,SIMULATED - NOT NSQF VERIFIED
+COURSE0099,Hospitality Revenue Analyst - Training Module 99,Tourism & Hospitality,3,400,Revenue; Pricing; Excel; SQL; Forecasting; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0100,Cybersecurity Analyst - Training Module 100,IT-ITeS,3.5,800,Network; Security; Cloud; Incident; Python; Response; Linux,SIMULATED - NOT NSQF VERIFIED
+COURSE0101,Ecommerce Specialist - Training Module 101,Retail,6,400,Shopify; Customer; Acquisition; Digital,SIMULATED - NOT NSQF VERIFIED
+COURSE0102,Data Scientist - Training Module 102,IT-ITeS,3.5,800,Python; SQL; Pandas; Machine; Learning; Visualization; Scikit-learn; Statistics; Git; Data,SIMULATED - NOT NSQF VERIFIED
+COURSE0103,ML Engineer - Training Module 103,IT-ITeS,4.5,400,AWS; TensorFlow; Docker; PyTorch; Python; Kubernetes; MLOps; Git,SIMULATED - NOT NSQF VERIFIED
+COURSE0104,EV Technician - Training Module 104,Automotive,5.5,600,Safety; Battery; Management; Electrical; Diagnostics; Charging; EV; Maintenance,SIMULATED - NOT NSQF VERIFIED
+COURSE0105,Site Safety Supervisor - Training Module 105,Construction,6,600,Site; Inspection; PPE; Occupational; Safety; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0106,5G Engineer - Training Module 106,Telecom,5,120,5G; Protocols; Python; Planning; RF; Optimization,SIMULATED - NOT NSQF VERIFIED
+COURSE0107,Data Scientist - Training Module 107,IT-ITeS,4.5,400,Data; Statistics; Python; Scikit-learn; Git; Learning; Pandas; Machine; SQL; Visualization,SIMULATED - NOT NSQF VERIFIED
+COURSE0108,Hospitality Revenue Analyst - Training Module 108,Tourism & Hospitality,4.5,300,Excel; Revenue; Forecasting; Management; Analytics,SIMULATED - NOT NSQF VERIFIED
+COURSE0109,CNC Operator - Training Module 109,Automotive,3,800,CAD; Machine; CNC; Operation; CAM; Quality; Inspection; Programming,SIMULATED - NOT NSQF VERIFIED
+COURSE0110,Precision Farming Technician - Training Module 110,Agriculture,3,120,GIS; Collection; Sensors; Drone; Data; Testing,SIMULATED - NOT NSQF VERIFIED
+COURSE0111,Instructional Designer - Training Module 111,"Education, Training & Research",6,800,LMS; Accessibility; Development,SIMULATED - NOT NSQF VERIFIED
+COURSE0112,Precision Farming Technician - Training Module 112,Agriculture,3,400,IoT; Mapping; Soil; Drone,SIMULATED - NOT NSQF VERIFIED
+COURSE0113,Web Developer - Training Module 113,IT-ITeS,5.5,600,React; REST; JavaScript; Git,SIMULATED - NOT NSQF VERIFIED
+COURSE0114,Site Safety Supervisor - Training Module 114,Construction,6,120,Assessment; PPE; Inspection; Site; Compliance; Occupational; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0115,Financial Analyst - Training Module 115,BFSI,3.5,200,Analysis; SQL; Excel; Power; Financial; Risk; Accounting; BI,SIMULATED - NOT NSQF VERIFIED
+COURSE0116,CNC Operator - Training Module 116,Automotive,5.5,300,CAD; Quality; CAM; Programming; CNC; Operation; Inspection; Machine,SIMULATED - NOT NSQF VERIFIED
+COURSE0117,Network Technician - Training Module 117,Telecom,3,800,Troubleshooting; Fiber; Routing,SIMULATED - NOT NSQF VERIFIED
+COURSE0118,Technical Trainer - Training Module 118,"Education, Training & Research",4,120,Teaching; Design; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0119,Cloud Engineer - Training Module 119,IT-ITeS,6,400,Terraform; Azure; Kubernetes; AWS; Linux,SIMULATED - NOT NSQF VERIFIED
+COURSE0120,Fraud Analyst - Training Module 120,BFSI,4.5,200,Detection; Risk; Statistics; Assessment; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0121,Site Safety Supervisor - Training Module 121,Construction,6,200,Occupational; Assessment; Risk; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0122,Hotel Operations Associate - Training Module 122,Tourism & Hospitality,4,120,Guest; Communication; Systems; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0123,Supply Chain Analyst - Training Module 123,Retail,5,400,Excel; Power; Forecasting,SIMULATED - NOT NSQF VERIFIED
+COURSE0124,Cloud Engineer - Training Module 124,IT-ITeS,5,800,Linux; CI/CD; Docker,SIMULATED - NOT NSQF VERIFIED
+COURSE0125,CNC Operator - Training Module 125,Automotive,3,120,CNC; Inspection; Machine; CAM,SIMULATED - NOT NSQF VERIFIED
+COURSE0126,Fraud Analyst - Training Module 126,BFSI,3,120,Assessment; Statistics; Fraud,SIMULATED - NOT NSQF VERIFIED
+COURSE0127,Data Scientist - Training Module 127,IT-ITeS,4.5,600,Data; Scikit-learn; Learning; Pandas; Git; Python; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0128,Health Data Analyst - Training Module 128,Healthcare,5,200,Data; Privacy; Analytics; Power; SQL; BI; Healthcare; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0129,Hospitality Revenue Analyst - Training Module 129,Tourism & Hospitality,6,600,Pricing; Analytics; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0130,ML Engineer - Training Module 130,IT-ITeS,4.5,120,Python; PyTorch; MLOps; AWS; Docker; TensorFlow; Git,SIMULATED - NOT NSQF VERIFIED
+COURSE0131,Cybersecurity Analyst - Training Module 131,IT-ITeS,5,800,Security; Network; Response; Security,SIMULATED - NOT NSQF VERIFIED
+COURSE0132,Web Developer - Training Module 132,IT-ITeS,3.5,800,HTML; React; CSS; REST; JavaScript; MongoDB; Git; Node.js,SIMULATED - NOT NSQF VERIFIED
+COURSE0133,Network Technician - Training Module 133,Telecom,3,120,Optics; Fiber; Troubleshooting; Networking; Switching,SIMULATED - NOT NSQF VERIFIED
+COURSE0134,Automotive QA Inspector - Training Module 134,Automotive,3.5,600,Cause; Root; ISO; Metrology; Analysis; Inspection; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0135,Cybersecurity Analyst - Training Module 135,IT-ITeS,4,400,Security; Response; Python; Security; Incident; SIEM; Cloud,SIMULATED - NOT NSQF VERIFIED
+COURSE0136,Technical Trainer - Training Module 136,"Education, Training & Research",6,400,Assessment; Python; Design; LMS,SIMULATED - NOT NSQF VERIFIED
+COURSE0137,Instructional Designer - Training Module 137,"Education, Training & Research",3.5,800,Assessment; Accessibility; Content; Design; Development; LMS; Curriculum,SIMULATED - NOT NSQF VERIFIED
+COURSE0138,Network Technician - Training Module 138,Telecom,4.5,200,Networking; Troubleshooting; Optics,SIMULATED - NOT NSQF VERIFIED
+COURSE0139,Web Developer - Training Module 139,IT-ITeS,3,800,React; HTML; MongoDB; Git; JavaScript,SIMULATED - NOT NSQF VERIFIED
+COURSE0140,Cloud Engineer - Training Module 140,IT-ITeS,6,800,Azure; Linux; AWS; Docker; Terraform,SIMULATED - NOT NSQF VERIFIED
+COURSE0141,Hospitality Revenue Analyst - Training Module 141,Tourism & Hospitality,6,300,Forecasting; SQL; Revenue; Excel; Management; Pricing; Analytics,SIMULATED - NOT NSQF VERIFIED
+COURSE0142,Technical Trainer - Training Module 142,"Education, Training & Research",5.5,300,Curriculum; Python; Teaching; Assessment; Design; LMS,SIMULATED - NOT NSQF VERIFIED
+COURSE0143,Hotel Operations Associate - Training Module 143,Tourism & Hospitality,3.5,120,Housekeeping; Reservation; Service; Guest; Systems; Communication,SIMULATED - NOT NSQF VERIFIED
+COURSE0144,Automotive QA Inspector - Training Module 144,Automotive,5,300,Quality; ISO; Inspection; Cause; Standards; Root; Metrology,SIMULATED - NOT NSQF VERIFIED
+COURSE0145,Ecommerce Specialist - Training Module 145,Retail,3.5,120,Shopify; Customer; Digital; Analytics; SEO; Acquisition; Marketing,SIMULATED - NOT NSQF VERIFIED
+COURSE0146,Data Analyst - Training Module 146,IT-ITeS,5.5,200,SQL; Statistics; BI; Excel; Tableau; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0147,Precision Farming Technician - Training Module 147,Agriculture,6,300,Soil; Mapping; Data; Drone; IoT; Collection; GIS; Testing,SIMULATED - NOT NSQF VERIFIED
+COURSE0148,Hotel Operations Associate - Training Module 148,Tourism & Hospitality,6,300,Housekeeping; Systems; Communication; Reservation; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0149,Data Analyst - Training Module 149,IT-ITeS,5.5,600,Excel; SQL; Power; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0150,Data Scientist - Training Module 150,IT-ITeS,3.5,120,Learning; Visualization; Statistics; Python; Data,SIMULATED - NOT NSQF VERIFIED
+COURSE0151,Health Data Analyst - Training Module 151,Healthcare,5,400,Data; Excel; Power; Python; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0152,EV Technician - Training Module 152,Automotive,3.5,120,Electrical; Charging; Management; Maintenance; Diagnostics; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0153,ML Engineer - Training Module 153,IT-ITeS,5.5,600,AWS; Docker; MLOps; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0154,Civil CAD Technician - Training Module 154,Construction,4.5,800,Building; AutoCAD; Revit; Codes; BIM; Surveying,SIMULATED - NOT NSQF VERIFIED
+COURSE0155,Financial Analyst - Training Module 155,BFSI,5,120,Financial; Power; SQL; Risk; BI; Accounting; Excel; Analysis,SIMULATED - NOT NSQF VERIFIED
+COURSE0156,Cybersecurity Analyst - Training Module 156,IT-ITeS,6,600,Linux; Response; Network; Cloud; Security; Security; SIEM,SIMULATED - NOT NSQF VERIFIED
+COURSE0157,Retail Associate - Training Module 157,Retail,3,800,POS; Service; Inventory; Communication; Sales,SIMULATED - NOT NSQF VERIFIED
+COURSE0158,Automotive QA Inspector - Training Module 158,Automotive,4,800,ISO; Root; Inspection; Analysis,SIMULATED - NOT NSQF VERIFIED
+COURSE0159,Hotel Operations Associate - Training Module 159,Tourism & Hospitality,6,300,Service; Systems; Housekeeping,SIMULATED - NOT NSQF VERIFIED
+COURSE0160,Cloud Engineer - Training Module 160,IT-ITeS,3,120,Kubernetes; Linux; AWS,SIMULATED - NOT NSQF VERIFIED
+COURSE0161,Web Developer - Training Module 161,IT-ITeS,4,300,JavaScript; React; HTML; Node.js; CSS; REST; MongoDB,SIMULATED - NOT NSQF VERIFIED
+COURSE0162,EV Technician - Training Module 162,Automotive,5,400,Battery; Diagnostics; Safety; Charging; Maintenance; Electrical,SIMULATED - NOT NSQF VERIFIED
+COURSE0163,Financial Analyst - Training Module 163,BFSI,5.5,400,Excel; Risk; Power; SQL; Financial; BI; Accounting; Analysis; Modeling,SIMULATED - NOT NSQF VERIFIED
+COURSE0164,Hotel Operations Associate - Training Module 164,Tourism & Hospitality,5,800,Systems; Housekeeping; Reservation; Service; Guest,SIMULATED - NOT NSQF VERIFIED
+COURSE0165,Food Processing Technician - Training Module 165,Agriculture,4.5,800,Control; Equipment; Quality; Food; HACCP; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0166,Healthcare Assistant - Training Module 166,Healthcare,3,600,Aid; Vital; Signs; Patient; Infection; Care; Documentation; First,SIMULATED - NOT NSQF VERIFIED
+COURSE0167,Hospitality Revenue Analyst - Training Module 167,Tourism & Hospitality,4,800,Pricing; Forecasting; Management; SQL; Revenue,SIMULATED - NOT NSQF VERIFIED
+COURSE0168,Hospitality Revenue Analyst - Training Module 168,Tourism & Hospitality,4.5,200,SQL; Pricing; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0169,Cloud Engineer - Training Module 169,IT-ITeS,6,300,Terraform; AWS; Linux; Docker; Kubernetes; CI/CD; Azure,SIMULATED - NOT NSQF VERIFIED
+COURSE0170,Supply Chain Analyst - Training Module 170,Retail,3.5,120,Power; Logistics; Forecasting,SIMULATED - NOT NSQF VERIFIED
+COURSE0171,Retail Associate - Training Module 171,Retail,4.5,600,Inventory; Customer; Management; Sales,SIMULATED - NOT NSQF VERIFIED
+COURSE0172,Healthcare Assistant - Training Module 172,Healthcare,6,120,First; Infection; Care; Vital; Control; Signs,SIMULATED - NOT NSQF VERIFIED
+COURSE0173,Site Safety Supervisor - Training Module 173,Construction,4,800,Assessment; Risk; Occupational; Compliance; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0174,Data Scientist - Training Module 174,IT-ITeS,5,200,Statistics; Git; Python; Machine; SQL; Pandas; Scikit-learn,SIMULATED - NOT NSQF VERIFIED
+COURSE0175,Cybersecurity Analyst - Training Module 175,IT-ITeS,4,120,Security; Security; SIEM; Cloud; Incident; Network; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0176,5G Engineer - Training Module 176,Telecom,4.5,400,Network; Python; Optimization; Planning; Telecom; RF; 5G,SIMULATED - NOT NSQF VERIFIED
+COURSE0177,Automotive QA Inspector - Training Module 177,Automotive,3,400,Metrology; Root; Analysis; Standards; Cause; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0178,Food Processing Technician - Training Module 178,Agriculture,3.5,600,Packaging; Food; Equipment; Quality; Control; HACCP; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0179,Precision Farming Technician - Training Module 179,Agriculture,4.5,600,Drone; GIS; Soil; Sensors,SIMULATED - NOT NSQF VERIFIED
+COURSE0180,5G Engineer - Training Module 180,Telecom,6,300,Python; Telecom; Optimization; RF; 5G; Network; Protocols,SIMULATED - NOT NSQF VERIFIED
+COURSE0181,5G Engineer - Training Module 181,Telecom,3.5,120,RF; Planning; Network; Protocols; Telecom,SIMULATED - NOT NSQF VERIFIED
+COURSE0182,Hospitality Revenue Analyst - Training Module 182,Tourism & Hospitality,3.5,200,Analytics; Revenue; Forecasting; Management; SQL; Excel; Pricing,SIMULATED - NOT NSQF VERIFIED
+COURSE0183,Hospitality Revenue Analyst - Training Module 183,Tourism & Hospitality,4.5,200,Excel; Forecasting; SQL; Revenue; Analytics; Pricing,SIMULATED - NOT NSQF VERIFIED
+COURSE0184,Food Processing Technician - Training Module 184,Agriculture,5.5,600,Control; Packaging; Safety; Equipment; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0185,Site Safety Supervisor - Training Module 185,Construction,4,300,Safety; Assessment; PPE; Inspection; Compliance; Occupational,SIMULATED - NOT NSQF VERIFIED
+COURSE0186,CNC Operator - Training Module 186,Automotive,6,200,CAM; Programming; Inspection; CNC,SIMULATED - NOT NSQF VERIFIED
+COURSE0187,Site Safety Supervisor - Training Module 187,Construction,4.5,300,Occupational; Safety; Site; Inspection; Compliance; Assessment; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0188,Retail Associate - Training Module 188,Retail,4,120,Inventory; Service; POS; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0189,Fraud Analyst - Training Module 189,BFSI,3,800,Detection; Fraud; Risk; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0190,Fraud Analyst - Training Module 190,BFSI,3,600,Python; SQL; Fraud; Assessment; Statistics; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0191,Hospitality Revenue Analyst - Training Module 191,Tourism & Hospitality,6,400,Excel; Revenue; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0192,Automotive QA Inspector - Training Module 192,Automotive,3,600,Inspection; Root; Quality; Standards; Analysis,SIMULATED - NOT NSQF VERIFIED
+COURSE0193,Financial Analyst - Training Module 193,BFSI,3,200,Risk; BI; Financial; Accounting; Modeling; Power; Analysis; Excel; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0194,5G Engineer - Training Module 194,Telecom,4,200,5G; Python; Protocols; Telecom; Optimization; Planning; RF,SIMULATED - NOT NSQF VERIFIED
+COURSE0195,Financial Analyst - Training Module 195,BFSI,4.5,800,BI; Modeling; Accounting; Analysis,SIMULATED - NOT NSQF VERIFIED
+COURSE0196,Ecommerce Specialist - Training Module 196,Retail,3,600,Acquisition; Analytics; Customer; Shopify; Digital; Marketing; SEO,SIMULATED - NOT NSQF VERIFIED
+COURSE0197,Automotive QA Inspector - Training Module 197,Automotive,4.5,400,Analysis; Quality; Root; Inspection; Cause; ISO; Standards,SIMULATED - NOT NSQF VERIFIED
+COURSE0198,Hotel Operations Associate - Training Module 198,Tourism & Hospitality,6,300,Service; Reservation; Housekeeping; Systems,SIMULATED - NOT NSQF VERIFIED
+COURSE0199,CNC Operator - Training Module 199,Automotive,3,120,Operation; CAM; Quality; Programming,SIMULATED - NOT NSQF VERIFIED
+COURSE0200,Healthcare Assistant - Training Module 200,Healthcare,5,200,Care; Signs; Control; Aid,SIMULATED - NOT NSQF VERIFIED
+COURSE0201,Medical Lab Technician - Training Module 201,Healthcare,6,120,Laboratory; Sample; Safety; Records; Medical,SIMULATED - NOT NSQF VERIFIED
+COURSE0202,Instructional Designer - Training Module 202,"Education, Training & Research",5,120,LMS; Content; Curriculum,SIMULATED - NOT NSQF VERIFIED
+COURSE0203,Data Analyst - Training Module 203,IT-ITeS,3,400,Tableau; BI; SQL; Power; Excel; Statistics; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0204,Fraud Analyst - Training Module 204,BFSI,5.5,600,Assessment; Risk; Detection; Fraud; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0205,Medical Lab Technician - Training Module 205,Healthcare,3,200,Quality; Laboratory; Collection; Medical; Control; Records; Hematology,SIMULATED - NOT NSQF VERIFIED
+COURSE0206,Medical Lab Technician - Training Module 206,Healthcare,6,200,Medical; Quality; Sample; Safety; Collection; Control,SIMULATED - NOT NSQF VERIFIED
+COURSE0207,Health Data Analyst - Training Module 207,Healthcare,4,800,BI; Analytics; Data; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0208,Technical Trainer - Training Module 208,"Education, Training & Research",6,200,Design; Curriculum; Python; Assessment; Teaching; LMS,SIMULATED - NOT NSQF VERIFIED
+COURSE0209,Cloud Engineer - Training Module 209,IT-ITeS,4,300,Azure; Linux; Kubernetes; CI/CD,SIMULATED - NOT NSQF VERIFIED
+COURSE0210,Banking Operations Associate - Training Module 210,BFSI,3,800,KYC; Customer; Service; Compliance; Banking; Excel; AML,SIMULATED - NOT NSQF VERIFIED
+COURSE0211,Civil CAD Technician - Training Module 211,Construction,5.5,120,Quantity; Revit; AutoCAD; Codes; BIM; Surveying,SIMULATED - NOT NSQF VERIFIED
+COURSE0212,Hotel Operations Associate - Training Module 212,Tourism & Hospitality,3,300,Communication; Reservation; Guest,SIMULATED - NOT NSQF VERIFIED
+COURSE0213,Site Safety Supervisor - Training Module 213,Construction,3.5,300,Safety; Risk; Compliance; Assessment; Site; Inspection; PPE,SIMULATED - NOT NSQF VERIFIED
+COURSE0214,CNC Operator - Training Module 214,Automotive,5.5,120,Operation; CAD; Inspection; CNC,SIMULATED - NOT NSQF VERIFIED
+COURSE0215,Healthcare Assistant - Training Module 215,Healthcare,5.5,800,Care; Patient; Infection; Signs; Vital; Control; Documentation,SIMULATED - NOT NSQF VERIFIED
+COURSE0216,Ecommerce Specialist - Training Module 216,Retail,6,600,Marketing; Customer; Acquisition; Analytics,SIMULATED - NOT NSQF VERIFIED
+COURSE0217,Network Technician - Training Module 217,Telecom,5,200,Switching; Optics; Routing; Troubleshooting,SIMULATED - NOT NSQF VERIFIED
+COURSE0218,Supply Chain Analyst - Training Module 218,Retail,3.5,600,Inventory; BI; Forecasting; SQL; Power; Excel; Logistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0219,Fraud Analyst - Training Module 219,BFSI,6,800,Risk; SQL; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0220,Retail Associate - Training Module 220,Retail,6,120,POS; Communication; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0221,Banking Operations Associate - Training Module 221,BFSI,4,120,Excel; Service; KYC; Compliance; AML,SIMULATED - NOT NSQF VERIFIED
+COURSE0222,Instructional Designer - Training Module 222,"Education, Training & Research",5,200,Development; Assessment; Accessibility; Design; LMS; Content; Curriculum,SIMULATED - NOT NSQF VERIFIED
+COURSE0223,5G Engineer - Training Module 223,Telecom,4.5,120,Network; Telecom; Python; Protocols; Optimization; RF; Planning; 5G,SIMULATED - NOT NSQF VERIFIED
+COURSE0224,Fraud Analyst - Training Module 224,BFSI,4,120,Python; Detection; Risk; Fraud; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0225,Food Processing Technician - Training Module 225,Agriculture,6,120,Packaging; Food; Quality; Equipment; HACCP; Safety; Control,SIMULATED - NOT NSQF VERIFIED
+COURSE0226,Technical Trainer - Training Module 226,"Education, Training & Research",4,120,Design; Assessment; Python; Curriculum; Teaching,SIMULATED - NOT NSQF VERIFIED
+COURSE0227,Hotel Operations Associate - Training Module 227,Tourism & Hospitality,4,300,Housekeeping; Systems; Guest; Reservation; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0228,Supply Chain Analyst - Training Module 228,Retail,3,300,Logistics; Inventory; Power; BI,SIMULATED - NOT NSQF VERIFIED
+COURSE0229,Cybersecurity Analyst - Training Module 229,IT-ITeS,3,120,Incident; Python; Security; Security; SIEM; Linux; Cloud; Network,SIMULATED - NOT NSQF VERIFIED
+COURSE0230,Supply Chain Analyst - Training Module 230,Retail,6,800,BI; Inventory; SQL; Forecasting; Excel; Logistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0231,Cybersecurity Analyst - Training Module 231,IT-ITeS,5,200,Response; Python; SIEM; Cloud; Incident,SIMULATED - NOT NSQF VERIFIED
+COURSE0232,Precision Farming Technician - Training Module 232,Agriculture,6,120,Drone; Data; Sensors; Collection; Testing; GIS; Mapping; IoT,SIMULATED - NOT NSQF VERIFIED
+COURSE0233,Civil CAD Technician - Training Module 233,Construction,4.5,600,Codes; BIM; Surveying; Quantity; AutoCAD,SIMULATED - NOT NSQF VERIFIED
+COURSE0234,Site Safety Supervisor - Training Module 234,Construction,6,200,Occupational; PPE; Inspection; Site,SIMULATED - NOT NSQF VERIFIED
+COURSE0235,ML Engineer - Training Module 235,IT-ITeS,5,300,Python; TensorFlow; PyTorch; MLOps,SIMULATED - NOT NSQF VERIFIED
+COURSE0236,Site Safety Supervisor - Training Module 236,Construction,6,400,Compliance; PPE; Site; Safety; Risk; Occupational; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0237,Site Safety Supervisor - Training Module 237,Construction,4.5,800,Assessment; PPE; Inspection; Site,SIMULATED - NOT NSQF VERIFIED
+COURSE0238,Hotel Operations Associate - Training Module 238,Tourism & Hospitality,5.5,120,Communication; Housekeeping; Systems; Reservation; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0239,Site Safety Supervisor - Training Module 239,Construction,4,200,PPE; Assessment; Safety; Occupational; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0240,Supply Chain Analyst - Training Module 240,Retail,6,600,Logistics; BI; Power; Forecasting; Inventory; Excel; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0241,Ecommerce Specialist - Training Module 241,Retail,4.5,400,Acquisition; Analytics; Marketing; Shopify; Digital,SIMULATED - NOT NSQF VERIFIED
+COURSE0242,Cybersecurity Analyst - Training Module 242,IT-ITeS,3,300,Network; Cloud; SIEM; Security,SIMULATED - NOT NSQF VERIFIED
+COURSE0243,Medical Lab Technician - Training Module 243,Healthcare,5.5,400,Records; Collection; Medical; Hematology; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0244,Fraud Analyst - Training Module 244,BFSI,5,800,Risk; Detection; SQL; Python; Assessment; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0245,Food Processing Technician - Training Module 245,Agriculture,4.5,800,Safety; Equipment; Quality; Food; Packaging; HACCP,SIMULATED - NOT NSQF VERIFIED
+COURSE0246,Civil CAD Technician - Training Module 246,Construction,3.5,300,Revit; Codes; BIM,SIMULATED - NOT NSQF VERIFIED
+COURSE0247,ML Engineer - Training Module 247,IT-ITeS,6,400,Git; MLOps; Docker; PyTorch,SIMULATED - NOT NSQF VERIFIED
+COURSE0248,Cybersecurity Analyst - Training Module 248,IT-ITeS,5.5,600,SIEM; Network; Linux; Incident; Security; Response,SIMULATED - NOT NSQF VERIFIED
+COURSE0249,Precision Farming Technician - Training Module 249,Agriculture,4,800,Data; Drone; Mapping; GIS; Testing,SIMULATED - NOT NSQF VERIFIED
+COURSE0250,EV Technician - Training Module 250,Automotive,3.5,300,Safety; Management; EV; Diagnostics,SIMULATED - NOT NSQF VERIFIED
+COURSE0251,Fraud Analyst - Training Module 251,BFSI,5,300,Fraud; SQL; Assessment; Python; Detection; Risk; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0252,Ecommerce Specialist - Training Module 252,Retail,5,400,SEO; Shopify; Marketing,SIMULATED - NOT NSQF VERIFIED
+COURSE0253,Civil CAD Technician - Training Module 253,Construction,3.5,800,AutoCAD; Surveying; Quantity; Building; Revit; Codes,SIMULATED - NOT NSQF VERIFIED
+COURSE0254,Supply Chain Analyst - Training Module 254,Retail,3,200,Inventory; SQL; Excel; Logistics; Forecasting; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0255,Supply Chain Analyst - Training Module 255,Retail,5.5,800,BI; Excel; SQL; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0256,Technical Trainer - Training Module 256,"Education, Training & Research",4,120,Design; Teaching; LMS; Python; Curriculum; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0257,Food Processing Technician - Training Module 257,Agriculture,6,120,Safety; HACCP; Equipment; Food; Packaging,SIMULATED - NOT NSQF VERIFIED
+COURSE0258,Health Data Analyst - Training Module 258,Healthcare,3.5,300,Power; Analytics; Data; BI; Excel; Healthcare,SIMULATED - NOT NSQF VERIFIED
+COURSE0259,Hospitality Revenue Analyst - Training Module 259,Tourism & Hospitality,3.5,800,Analytics; Pricing; Revenue,SIMULATED - NOT NSQF VERIFIED
+COURSE0260,Healthcare Assistant - Training Module 260,Healthcare,3,600,Care; Vital; Infection; Patient; Signs; Control; First; Aid; Documentation,SIMULATED - NOT NSQF VERIFIED
+COURSE0261,Cybersecurity Analyst - Training Module 261,IT-ITeS,6,800,Security; Python; Network; SIEM; Security,SIMULATED - NOT NSQF VERIFIED
+COURSE0262,Fraud Analyst - Training Module 262,BFSI,3,600,Fraud; SQL; Risk; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0263,Financial Analyst - Training Module 263,BFSI,3,600,BI; Power; Modeling; Financial; Excel; Analysis; Risk; Accounting,SIMULATED - NOT NSQF VERIFIED
+COURSE0264,ML Engineer - Training Module 264,IT-ITeS,4,600,Git; Docker; TensorFlow; PyTorch; AWS,SIMULATED - NOT NSQF VERIFIED
+COURSE0265,ML Engineer - Training Module 265,IT-ITeS,5,600,AWS; TensorFlow; Python; Git,SIMULATED - NOT NSQF VERIFIED
+COURSE0266,Network Technician - Training Module 266,Telecom,4.5,120,Networking; Routing; Optics; Switching; Fiber; Troubleshooting,SIMULATED - NOT NSQF VERIFIED
+COURSE0267,Medical Lab Technician - Training Module 267,Healthcare,3.5,300,Safety; Sample; Quality; Collection; Hematology,SIMULATED - NOT NSQF VERIFIED
+COURSE0268,Healthcare Assistant - Training Module 268,Healthcare,4,800,Control; First; Aid; Patient; Infection; Care; Signs,SIMULATED - NOT NSQF VERIFIED
+COURSE0269,EV Technician - Training Module 269,Automotive,5.5,120,Battery; Diagnostics; Electrical; Maintenance,SIMULATED - NOT NSQF VERIFIED
+COURSE0270,Hotel Operations Associate - Training Module 270,Tourism & Hospitality,3.5,200,Systems; Reservation; Communication; Housekeeping,SIMULATED - NOT NSQF VERIFIED
+COURSE0271,Civil CAD Technician - Training Module 271,Construction,3,400,Quantity; Surveying; Building,SIMULATED - NOT NSQF VERIFIED
+COURSE0272,Instructional Designer - Training Module 272,"Education, Training & Research",4.5,600,LMS; Assessment; Accessibility; Content,SIMULATED - NOT NSQF VERIFIED
+COURSE0273,Supply Chain Analyst - Training Module 273,Retail,4.5,300,Logistics; Forecasting; SQL; Excel; BI; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0274,CNC Operator - Training Module 274,Automotive,4,200,Operation; Quality; Programming; CNC,SIMULATED - NOT NSQF VERIFIED
+COURSE0275,Ecommerce Specialist - Training Module 275,Retail,4,120,Customer; Acquisition; Digital; Marketing; SEO; Analytics; Shopify,SIMULATED - NOT NSQF VERIFIED
+COURSE0276,Food Processing Technician - Training Module 276,Agriculture,3.5,600,Control; Quality; HACCP; Equipment; Food; Packaging; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0277,Precision Farming Technician - Training Module 277,Agriculture,6,200,Soil; Mapping; IoT; Collection; GIS; Drone,SIMULATED - NOT NSQF VERIFIED
+COURSE0278,Hotel Operations Associate - Training Module 278,Tourism & Hospitality,5,300,Housekeeping; Guest; Systems,SIMULATED - NOT NSQF VERIFIED
+COURSE0279,Supply Chain Analyst - Training Module 279,Retail,3,120,BI; Inventory; Power; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0280,Web Developer - Training Module 280,IT-ITeS,3,400,MongoDB; HTML; Git; React; REST; Node.js,SIMULATED - NOT NSQF VERIFIED
+COURSE0281,Retail Associate - Training Module 281,Retail,6,800,Service; Management; POS; Sales,SIMULATED - NOT NSQF VERIFIED
+COURSE0282,Civil CAD Technician - Training Module 282,Construction,3,800,Building; Quantity; BIM; Surveying; AutoCAD,SIMULATED - NOT NSQF VERIFIED
+COURSE0283,Fraud Analyst - Training Module 283,BFSI,3,120,Fraud; Detection; Statistics; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0284,Health Data Analyst - Training Module 284,Healthcare,4.5,200,Power; Healthcare; Python; BI; Data; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0285,Hotel Operations Associate - Training Module 285,Tourism & Hospitality,5.5,120,Communication; Guest; Housekeeping; Reservation; Systems,SIMULATED - NOT NSQF VERIFIED
+COURSE0286,Banking Operations Associate - Training Module 286,BFSI,3.5,300,Compliance; Excel; AML,SIMULATED - NOT NSQF VERIFIED
+COURSE0287,Medical Lab Technician - Training Module 287,Healthcare,4.5,200,Quality; Control; Medical; Laboratory; Collection; Sample,SIMULATED - NOT NSQF VERIFIED
+COURSE0288,Technical Trainer - Training Module 288,"Education, Training & Research",5,120,Teaching; LMS; Curriculum; Design; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0289,Financial Analyst - Training Module 289,BFSI,4.5,200,Accounting; Excel; BI; Power; Risk; Financial; SQL; Analysis; Modeling,SIMULATED - NOT NSQF VERIFIED
+COURSE0290,ML Engineer - Training Module 290,IT-ITeS,5,600,Kubernetes; PyTorch; Docker; Python; AWS; TensorFlow; Git; MLOps,SIMULATED - NOT NSQF VERIFIED
+COURSE0291,5G Engineer - Training Module 291,Telecom,5.5,200,RF; Optimization; 5G; Python; Protocols,SIMULATED - NOT NSQF VERIFIED
+COURSE0292,EV Technician - Training Module 292,Automotive,5,600,Diagnostics; EV; Electrical; Safety; Charging; Battery,SIMULATED - NOT NSQF VERIFIED
+COURSE0293,Automotive QA Inspector - Training Module 293,Automotive,6,300,Inspection; Standards; Quality; Metrology; Analysis; ISO; Root; Cause,SIMULATED - NOT NSQF VERIFIED
+COURSE0294,Web Developer - Training Module 294,IT-ITeS,5,800,Git; Node.js; CSS; REST; HTML; MongoDB; JavaScript; React,SIMULATED - NOT NSQF VERIFIED
+COURSE0295,Network Technician - Training Module 295,Telecom,3,300,Fiber; Switching; Troubleshooting,SIMULATED - NOT NSQF VERIFIED
+COURSE0296,Data Scientist - Training Module 296,IT-ITeS,5,400,Data; Python; Learning; Git; Statistics; SQL; Scikit-learn,SIMULATED - NOT NSQF VERIFIED
+COURSE0297,Supply Chain Analyst - Training Module 297,Retail,4,800,Excel; Power; SQL; Logistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0298,5G Engineer - Training Module 298,Telecom,4.5,200,RF; 5G; Protocols; Optimization,SIMULATED - NOT NSQF VERIFIED
+COURSE0299,Data Analyst - Training Module 299,IT-ITeS,4.5,600,Tableau; SQL; Statistics; Power; BI; Python; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0300,Civil CAD Technician - Training Module 300,Construction,3,400,Quantity; BIM; Surveying; AutoCAD; Building; Codes; Revit,SIMULATED - NOT NSQF VERIFIED
+COURSE0301,EV Technician - Training Module 301,Automotive,6,800,Maintenance; Diagnostics; Battery; Electrical; EV; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0302,Civil CAD Technician - Training Module 302,Construction,5,600,Building; BIM; Surveying; AutoCAD; Revit; Codes,SIMULATED - NOT NSQF VERIFIED
+COURSE0303,Retail Associate - Training Module 303,Retail,5,400,Management; Inventory; POS; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0304,Technical Trainer - Training Module 304,"Education, Training & Research",3.5,120,Python; Design; Curriculum; LMS,SIMULATED - NOT NSQF VERIFIED
+COURSE0305,EV Technician - Training Module 305,Automotive,5.5,120,Charging; Safety; EV; Diagnostics; Battery,SIMULATED - NOT NSQF VERIFIED
+COURSE0306,Network Technician - Training Module 306,Telecom,5,400,Troubleshooting; Switching; Fiber; Routing,SIMULATED - NOT NSQF VERIFIED
+COURSE0307,Automotive QA Inspector - Training Module 307,Automotive,3.5,800,Quality; Inspection; Standards; Cause,SIMULATED - NOT NSQF VERIFIED
+COURSE0308,Supply Chain Analyst - Training Module 308,Retail,4.5,600,Logistics; SQL; BI,SIMULATED - NOT NSQF VERIFIED
+COURSE0309,Health Data Analyst - Training Module 309,Healthcare,6,120,Analytics; Excel; BI; Healthcare; Power; Data,SIMULATED - NOT NSQF VERIFIED
+COURSE0310,Data Scientist - Training Module 310,IT-ITeS,3.5,800,Machine; Git; Statistics; Pandas; Visualization; Python; Scikit-learn; Data,SIMULATED - NOT NSQF VERIFIED
+COURSE0311,Technical Trainer - Training Module 311,"Education, Training & Research",6,800,Python; LMS; Assessment; Curriculum; Design; Teaching,SIMULATED - NOT NSQF VERIFIED
+COURSE0312,Medical Lab Technician - Training Module 312,Healthcare,4.5,300,Hematology; Control; Quality; Sample; Medical,SIMULATED - NOT NSQF VERIFIED
+COURSE0313,Data Scientist - Training Module 313,IT-ITeS,3,600,Pandas; Learning; Git; Visualization; Statistics; Scikit-learn; Machine,SIMULATED - NOT NSQF VERIFIED
+COURSE0314,Banking Operations Associate - Training Module 314,BFSI,3,120,Banking; KYC; Customer; Excel; Service; AML,SIMULATED - NOT NSQF VERIFIED
+COURSE0315,Hotel Operations Associate - Training Module 315,Tourism & Hospitality,4.5,200,Communication; Reservation; Housekeeping; Systems,SIMULATED - NOT NSQF VERIFIED
+COURSE0316,Retail Associate - Training Module 316,Retail,3,120,Management; Customer; Service; Sales; Communication; POS; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0317,ML Engineer - Training Module 317,IT-ITeS,3.5,200,TensorFlow; Python; PyTorch; Git; Kubernetes; Docker,SIMULATED - NOT NSQF VERIFIED
+COURSE0318,Cybersecurity Analyst - Training Module 318,IT-ITeS,6,800,Security; Security; Network; Incident; Cloud; Linux,SIMULATED - NOT NSQF VERIFIED
+COURSE0319,Technical Trainer - Training Module 319,"Education, Training & Research",3,300,LMS; Assessment; Design; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0320,Hospitality Revenue Analyst - Training Module 320,Tourism & Hospitality,3,600,Pricing; Management; Excel; Forecasting,SIMULATED - NOT NSQF VERIFIED
+COURSE0321,ML Engineer - Training Module 321,IT-ITeS,5.5,300,Git; TensorFlow; PyTorch; MLOps,SIMULATED - NOT NSQF VERIFIED
+COURSE0322,Network Technician - Training Module 322,Telecom,5,200,Optics; Switching; Fiber; Networking; Routing; Troubleshooting,SIMULATED - NOT NSQF VERIFIED
+COURSE0323,5G Engineer - Training Module 323,Telecom,6,300,RF; Network; Protocols; 5G; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0324,Network Technician - Training Module 324,Telecom,3,800,Networking; Fiber; Troubleshooting,SIMULATED - NOT NSQF VERIFIED
+COURSE0325,Cloud Engineer - Training Module 325,IT-ITeS,5.5,300,AWS; CI/CD; Linux,SIMULATED - NOT NSQF VERIFIED
+COURSE0326,EV Technician - Training Module 326,Automotive,5.5,800,EV; Safety; Battery; Management; Diagnostics; Charging; Maintenance,SIMULATED - NOT NSQF VERIFIED
+COURSE0327,Data Scientist - Training Module 327,IT-ITeS,6,600,Machine; Data; Python; Statistics; SQL; Scikit-learn,SIMULATED - NOT NSQF VERIFIED
+COURSE0328,Instructional Designer - Training Module 328,"Education, Training & Research",4,120,Assessment; LMS; Accessibility,SIMULATED - NOT NSQF VERIFIED
+COURSE0329,Data Analyst - Training Module 329,IT-ITeS,5.5,120,Tableau; BI; Python; Statistics; Excel; Power; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0330,Retail Associate - Training Module 330,Retail,5.5,600,Sales; Communication; Management; POS; Inventory; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0331,Data Analyst - Training Module 331,IT-ITeS,3.5,600,Power; Tableau; BI; SQL; Statistics; Python; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0332,Food Processing Technician - Training Module 332,Agriculture,5,120,Control; HACCP; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0333,Fraud Analyst - Training Module 333,BFSI,4.5,200,Detection; Python; Statistics; Risk; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0334,Hotel Operations Associate - Training Module 334,Tourism & Hospitality,5,600,Communication; Housekeeping; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0335,Ecommerce Specialist - Training Module 335,Retail,4,800,SEO; Marketing; Digital,SIMULATED - NOT NSQF VERIFIED
+COURSE0336,Automotive QA Inspector - Training Module 336,Automotive,4.5,400,Cause; Analysis; Inspection; Standards; ISO,SIMULATED - NOT NSQF VERIFIED
+COURSE0337,CNC Operator - Training Module 337,Automotive,5,200,CNC; Programming; Quality; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0338,Financial Analyst - Training Module 338,BFSI,6,400,Risk; Accounting; Analysis; Financial; Excel; SQL; BI; Modeling; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0339,Hotel Operations Associate - Training Module 339,Tourism & Hospitality,6,600,Housekeeping; Communication; Systems; Reservation; Guest; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0340,Fraud Analyst - Training Module 340,BFSI,5.5,120,Statistics; Detection; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0341,Banking Operations Associate - Training Module 341,BFSI,5,400,Excel; Banking; KYC; Compliance; AML; Customer; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0342,Instructional Designer - Training Module 342,"Education, Training & Research",4.5,120,Assessment; Curriculum; Accessibility; LMS; Content; Design,SIMULATED - NOT NSQF VERIFIED
+COURSE0343,Technical Trainer - Training Module 343,"Education, Training & Research",5.5,200,LMS; Teaching; Curriculum; Design; Python; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0344,Supply Chain Analyst - Training Module 344,Retail,5,600,Excel; Logistics; Power; Forecasting,SIMULATED - NOT NSQF VERIFIED
+COURSE0345,Cybersecurity Analyst - Training Module 345,IT-ITeS,4,600,Linux; Response; Security; Network; SIEM,SIMULATED - NOT NSQF VERIFIED
+COURSE0346,Site Safety Supervisor - Training Module 346,Construction,4,600,Inspection; Assessment; Safety; Compliance; Occupational; PPE,SIMULATED - NOT NSQF VERIFIED
+COURSE0347,EV Technician - Training Module 347,Automotive,6,400,EV; Maintenance; Diagnostics; Charging,SIMULATED - NOT NSQF VERIFIED
+COURSE0348,Fraud Analyst - Training Module 348,BFSI,5.5,800,Python; Statistics; SQL; Detection; Risk; Assessment; Fraud,SIMULATED - NOT NSQF VERIFIED
+COURSE0349,Financial Analyst - Training Module 349,BFSI,5,800,BI; Risk; Power; SQL; Accounting,SIMULATED - NOT NSQF VERIFIED
+COURSE0350,Technical Trainer - Training Module 350,"Education, Training & Research",3.5,300,Assessment; Curriculum; Teaching,SIMULATED - NOT NSQF VERIFIED
+COURSE0351,Technical Trainer - Training Module 351,"Education, Training & Research",5.5,600,Assessment; Design; Teaching; Curriculum; LMS; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0352,Medical Lab Technician - Training Module 352,Healthcare,5.5,300,Safety; Collection; Medical; Hematology; Sample; Control; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0353,5G Engineer - Training Module 353,Telecom,3,200,Planning; RF; Telecom; Network; 5G; Protocols; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0354,Financial Analyst - Training Module 354,BFSI,4.5,400,Financial; Analysis; Power; BI; Excel; SQL; Accounting; Modeling,SIMULATED - NOT NSQF VERIFIED
+COURSE0355,Supply Chain Analyst - Training Module 355,Retail,5,600,BI; Logistics; Excel; SQL; Forecasting; Inventory; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0356,CNC Operator - Training Module 356,Automotive,6,400,CNC; CAD; Inspection; Programming; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0357,EV Technician - Training Module 357,Automotive,5,200,Management; Safety; Charging; Electrical; Maintenance; EV; Diagnostics; Battery,SIMULATED - NOT NSQF VERIFIED
+COURSE0358,Web Developer - Training Module 358,IT-ITeS,3.5,400,MongoDB; Node.js; Git; HTML; JavaScript; React; CSS; REST,SIMULATED - NOT NSQF VERIFIED
+COURSE0359,Hospitality Revenue Analyst - Training Module 359,Tourism & Hospitality,3.5,200,Analytics; SQL; Pricing; Revenue; Forecasting; Management; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0360,Precision Farming Technician - Training Module 360,Agriculture,5.5,200,Collection; GIS; Drone; Soil; Testing; Mapping,SIMULATED - NOT NSQF VERIFIED
+COURSE0361,Instructional Designer - Training Module 361,"Education, Training & Research",3,300,LMS; Content; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0362,Site Safety Supervisor - Training Module 362,Construction,6,120,PPE; Assessment; Risk; Inspection; Compliance; Occupational; Site,SIMULATED - NOT NSQF VERIFIED
+COURSE0363,Hospitality Revenue Analyst - Training Module 363,Tourism & Hospitality,4,400,Pricing; Excel; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0364,Precision Farming Technician - Training Module 364,Agriculture,3,800,IoT; Collection; Drone; Soil; Sensors; Mapping; GIS,SIMULATED - NOT NSQF VERIFIED
+COURSE0365,Food Processing Technician - Training Module 365,Agriculture,5,400,Equipment; Packaging; Food,SIMULATED - NOT NSQF VERIFIED
+COURSE0366,Data Analyst - Training Module 366,IT-ITeS,6,120,Excel; Statistics; Python; Power; BI; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0367,Instructional Designer - Training Module 367,"Education, Training & Research",6,600,Curriculum; Accessibility; Development; Assessment; LMS,SIMULATED - NOT NSQF VERIFIED
+COURSE0368,Data Analyst - Training Module 368,IT-ITeS,6,120,BI; Tableau; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0369,Fraud Analyst - Training Module 369,BFSI,6,300,Fraud; Assessment; Detection; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0370,Healthcare Assistant - Training Module 370,Healthcare,5.5,400,First; Documentation; Infection; Control; Patient; Vital; Aid,SIMULATED - NOT NSQF VERIFIED
+COURSE0371,EV Technician - Training Module 371,Automotive,4,300,Electrical; Diagnostics; Safety; Maintenance; Battery; Charging; EV; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0372,Data Analyst - Training Module 372,IT-ITeS,6,120,Statistics; Tableau; Power; SQL; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0373,Food Processing Technician - Training Module 373,Agriculture,4.5,600,Equipment; Safety; Food; HACCP; Packaging; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0374,Hotel Operations Associate - Training Module 374,Tourism & Hospitality,5.5,200,Systems; Service; Housekeeping; Reservation,SIMULATED - NOT NSQF VERIFIED
+COURSE0375,5G Engineer - Training Module 375,Telecom,3,120,Network; RF; Protocols; Telecom,SIMULATED - NOT NSQF VERIFIED
+COURSE0376,Hospitality Revenue Analyst - Training Module 376,Tourism & Hospitality,5.5,800,Management; Analytics; Forecasting; Pricing; SQL; Revenue; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0377,Fraud Analyst - Training Module 377,BFSI,3.5,800,Assessment; Detection; Risk; Statistics; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0378,Site Safety Supervisor - Training Module 378,Construction,4,200,PPE; Assessment; Risk; Inspection; Site; Compliance; Safety; Occupational,SIMULATED - NOT NSQF VERIFIED
+COURSE0379,Site Safety Supervisor - Training Module 379,Construction,5,300,Inspection; Site; Compliance; Risk; Assessment; Occupational; Safety; PPE,SIMULATED - NOT NSQF VERIFIED
+COURSE0380,Medical Lab Technician - Training Module 380,Healthcare,6,120,Quality; Records; Hematology; Safety; Sample; Collection; Medical; Control,SIMULATED - NOT NSQF VERIFIED
+COURSE0381,Food Processing Technician - Training Module 381,Agriculture,4,120,Food; Quality; Control; Packaging; HACCP; Safety; Equipment,SIMULATED - NOT NSQF VERIFIED
+COURSE0382,Healthcare Assistant - Training Module 382,Healthcare,3.5,300,Care; Aid; Signs; First,SIMULATED - NOT NSQF VERIFIED
+COURSE0383,Precision Farming Technician - Training Module 383,Agriculture,6,400,Testing; Soil; GIS; Mapping; Drone; Collection; IoT; Sensors,SIMULATED - NOT NSQF VERIFIED
+COURSE0384,EV Technician - Training Module 384,Automotive,4.5,800,Maintenance; Management; EV; Electrical; Diagnostics,SIMULATED - NOT NSQF VERIFIED
+COURSE0385,Civil CAD Technician - Training Module 385,Construction,4,120,Codes; Building; Revit,SIMULATED - NOT NSQF VERIFIED
+COURSE0386,Financial Analyst - Training Module 386,BFSI,6,120,BI; Risk; Power; SQL; Analysis; Modeling,SIMULATED - NOT NSQF VERIFIED
+COURSE0387,Fraud Analyst - Training Module 387,BFSI,3.5,200,Risk; Statistics; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0388,Automotive QA Inspector - Training Module 388,Automotive,6,120,ISO; Cause; Inspection; Metrology; Standards,SIMULATED - NOT NSQF VERIFIED
+COURSE0389,Data Scientist - Training Module 389,IT-ITeS,6,800,SQL; Learning; Git; Visualization; Pandas; Python; Statistics; Data,SIMULATED - NOT NSQF VERIFIED
+COURSE0390,Cloud Engineer - Training Module 390,IT-ITeS,4.5,600,AWS; Terraform; CI/CD,SIMULATED - NOT NSQF VERIFIED
+COURSE0391,Civil CAD Technician - Training Module 391,Construction,3.5,120,Quantity; Revit; AutoCAD; BIM; Codes; Surveying; Building,SIMULATED - NOT NSQF VERIFIED
+COURSE0392,Ecommerce Specialist - Training Module 392,Retail,5,600,SEO; Customer; Digital; Acquisition; Marketing,SIMULATED - NOT NSQF VERIFIED
+COURSE0393,Web Developer - Training Module 393,IT-ITeS,3.5,300,HTML; React; Git; JavaScript; REST; MongoDB; CSS,SIMULATED - NOT NSQF VERIFIED
+COURSE0394,Financial Analyst - Training Module 394,BFSI,4.5,600,BI; Risk; Modeling; SQL; Financial,SIMULATED - NOT NSQF VERIFIED
+COURSE0395,Technical Trainer - Training Module 395,"Education, Training & Research",3,400,Design; Python; Assessment; Teaching; Curriculum,SIMULATED - NOT NSQF VERIFIED
+COURSE0396,CNC Operator - Training Module 396,Automotive,4.5,800,CAD; Programming; Machine; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0397,Precision Farming Technician - Training Module 397,Agriculture,5,600,Drone; Sensors; Data; Testing; IoT; GIS,SIMULATED - NOT NSQF VERIFIED
+COURSE0398,Web Developer - Training Module 398,IT-ITeS,3.5,400,Node.js; REST; Git; MongoDB; React; JavaScript,SIMULATED - NOT NSQF VERIFIED
+COURSE0399,Technical Trainer - Training Module 399,"Education, Training & Research",4.5,800,Curriculum; Assessment; Teaching,SIMULATED - NOT NSQF VERIFIED
+COURSE0400,Cloud Engineer - Training Module 400,IT-ITeS,5,120,Kubernetes; CI/CD; Terraform; AWS; Azure; Linux,SIMULATED - NOT NSQF VERIFIED
+COURSE0401,Fraud Analyst - Training Module 401,BFSI,6,200,Statistics; Assessment; Detection; SQL; Python; Fraud; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0402,Hospitality Revenue Analyst - Training Module 402,Tourism & Hospitality,4,800,Excel; Analytics; Management; Forecasting; Revenue; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0403,Instructional Designer - Training Module 403,"Education, Training & Research",4.5,120,Accessibility; LMS; Curriculum; Design; Content; Development; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0404,CNC Operator - Training Module 404,Automotive,5.5,200,CAD; Programming; Operation; CAM; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0405,Data Analyst - Training Module 405,IT-ITeS,3,200,Power; BI; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0406,CNC Operator - Training Module 406,Automotive,6,120,Machine; CAD; Operation; Inspection; Quality; Programming; CAM,SIMULATED - NOT NSQF VERIFIED
+COURSE0407,Hospitality Revenue Analyst - Training Module 407,Tourism & Hospitality,6,200,Management; Pricing; Forecasting; Analytics; Excel; Revenue,SIMULATED - NOT NSQF VERIFIED
+COURSE0408,Supply Chain Analyst - Training Module 408,Retail,5.5,800,Excel; SQL; Forecasting,SIMULATED - NOT NSQF VERIFIED
+COURSE0409,Healthcare Assistant - Training Module 409,Healthcare,4,120,Control; Care; Signs; Aid; Infection; Documentation,SIMULATED - NOT NSQF VERIFIED
+COURSE0410,Healthcare Assistant - Training Module 410,Healthcare,6,800,Control; Signs; Aid; First; Care; Vital,SIMULATED - NOT NSQF VERIFIED
+COURSE0411,Technical Trainer - Training Module 411,"Education, Training & Research",3.5,600,LMS; Teaching; Python; Design,SIMULATED - NOT NSQF VERIFIED
+COURSE0412,Fraud Analyst - Training Module 412,BFSI,4.5,200,SQL; Python; Statistics; Assessment; Fraud,SIMULATED - NOT NSQF VERIFIED
+COURSE0413,Instructional Designer - Training Module 413,"Education, Training & Research",4.5,800,Accessibility; Content; LMS; Design,SIMULATED - NOT NSQF VERIFIED
+COURSE0414,Financial Analyst - Training Module 414,BFSI,5.5,600,Accounting; Risk; Financial; Analysis; SQL; Power; BI; Excel; Modeling,SIMULATED - NOT NSQF VERIFIED
+COURSE0415,Medical Lab Technician - Training Module 415,Healthcare,6,200,Medical; Safety; Laboratory; Hematology; Sample,SIMULATED - NOT NSQF VERIFIED
+COURSE0416,Data Scientist - Training Module 416,IT-ITeS,3.5,200,Visualization; Learning; Machine; Scikit-learn; Pandas; Statistics; Git; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0417,Banking Operations Associate - Training Module 417,BFSI,5.5,120,Service; Customer; AML; Banking; Compliance; KYC; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0418,Financial Analyst - Training Module 418,BFSI,6,300,Financial; Accounting; Analysis; Excel; SQL; Modeling,SIMULATED - NOT NSQF VERIFIED
+COURSE0419,Fraud Analyst - Training Module 419,BFSI,3.5,200,SQL; Python; Fraud; Statistics; Detection; Assessment; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0420,Cloud Engineer - Training Module 420,IT-ITeS,3,600,Azure; Terraform; Docker,SIMULATED - NOT NSQF VERIFIED
+COURSE0421,Medical Lab Technician - Training Module 421,Healthcare,5,120,Hematology; Collection; Records; Medical; Laboratory; Safety; Quality; Control; Sample,SIMULATED - NOT NSQF VERIFIED
+COURSE0422,Cybersecurity Analyst - Training Module 422,IT-ITeS,5.5,400,Response; SIEM; Cloud; Security; Network; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0423,Site Safety Supervisor - Training Module 423,Construction,3,300,Site; PPE; Compliance; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0424,Cybersecurity Analyst - Training Module 424,IT-ITeS,3.5,200,SIEM; Network; Response; Cloud,SIMULATED - NOT NSQF VERIFIED
+COURSE0425,Hotel Operations Associate - Training Module 425,Tourism & Hospitality,5,800,Reservation; Systems; Guest; Housekeeping,SIMULATED - NOT NSQF VERIFIED
+COURSE0426,Banking Operations Associate - Training Module 426,BFSI,3.5,600,Excel; Banking; Service; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0427,Automotive QA Inspector - Training Module 427,Automotive,5,600,ISO; Standards; Inspection; Root; Analysis,SIMULATED - NOT NSQF VERIFIED
+COURSE0428,Financial Analyst - Training Module 428,BFSI,5.5,600,BI; Modeling; SQL; Power; Accounting; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0429,Web Developer - Training Module 429,IT-ITeS,4,200,Git; REST; React; CSS; MongoDB,SIMULATED - NOT NSQF VERIFIED
+COURSE0430,Food Processing Technician - Training Module 430,Agriculture,6,600,Safety; Control; Quality; Food; HACCP,SIMULATED - NOT NSQF VERIFIED
+COURSE0431,Web Developer - Training Module 431,IT-ITeS,5.5,300,React; Node.js; Git; JavaScript; HTML; MongoDB; CSS; REST,SIMULATED - NOT NSQF VERIFIED
+COURSE0432,Automotive QA Inspector - Training Module 432,Automotive,5,200,Root; Quality; ISO; Cause; Metrology,SIMULATED - NOT NSQF VERIFIED
+COURSE0433,Hospitality Revenue Analyst - Training Module 433,Tourism & Hospitality,6,200,Forecasting; SQL; Revenue,SIMULATED - NOT NSQF VERIFIED
+COURSE0434,Precision Farming Technician - Training Module 434,Agriculture,5,800,GIS; Collection; IoT; Soil; Testing,SIMULATED - NOT NSQF VERIFIED
+COURSE0435,Cybersecurity Analyst - Training Module 435,IT-ITeS,5,300,Python; SIEM; Network; Security; Response; Incident; Cloud; Security,SIMULATED - NOT NSQF VERIFIED
+COURSE0436,Data Analyst - Training Module 436,IT-ITeS,5.5,600,Tableau; BI; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0437,Banking Operations Associate - Training Module 437,BFSI,6,120,Banking; Customer; Excel; KYC; AML; Compliance; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0438,Cloud Engineer - Training Module 438,IT-ITeS,3,400,Azure; Terraform; Docker; CI/CD; Kubernetes,SIMULATED - NOT NSQF VERIFIED
+COURSE0439,Instructional Designer - Training Module 439,"Education, Training & Research",3,600,Content; Accessibility; LMS; Curriculum; Design; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0440,Site Safety Supervisor - Training Module 440,Construction,3,120,Assessment; Compliance; Inspection; Occupational; Site,SIMULATED - NOT NSQF VERIFIED
+COURSE0441,Civil CAD Technician - Training Module 441,Construction,3,600,Quantity; Codes; BIM,SIMULATED - NOT NSQF VERIFIED
+COURSE0442,Hospitality Revenue Analyst - Training Module 442,Tourism & Hospitality,4,200,Excel; Analytics; SQL; Management; Forecasting; Pricing; Revenue,SIMULATED - NOT NSQF VERIFIED
+COURSE0443,Ecommerce Specialist - Training Module 443,Retail,4.5,200,SEO; Customer; Analytics,SIMULATED - NOT NSQF VERIFIED
+COURSE0444,Automotive QA Inspector - Training Module 444,Automotive,4,300,Root; Analysis; ISO; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0445,Data Analyst - Training Module 445,IT-ITeS,3,120,Tableau; SQL; Excel; Statistics; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0446,Web Developer - Training Module 446,IT-ITeS,6,400,React; MongoDB; Git; CSS; REST; Node.js; HTML,SIMULATED - NOT NSQF VERIFIED
+COURSE0447,Network Technician - Training Module 447,Telecom,3,200,Networking; Optics; Switching,SIMULATED - NOT NSQF VERIFIED
+COURSE0448,Hospitality Revenue Analyst - Training Module 448,Tourism & Hospitality,3,120,Forecasting; SQL; Management; Pricing; Revenue; Excel; Analytics,SIMULATED - NOT NSQF VERIFIED
+COURSE0449,CNC Operator - Training Module 449,Automotive,5.5,400,Operation; Programming; CAD; Inspection; CAM; Quality; Machine; CNC,SIMULATED - NOT NSQF VERIFIED
+COURSE0450,Technical Trainer - Training Module 450,"Education, Training & Research",6,800,Python; LMS; Teaching; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0451,Supply Chain Analyst - Training Module 451,Retail,4.5,800,Excel; Forecasting; SQL; BI; Power; Inventory; Logistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0452,5G Engineer - Training Module 452,Telecom,4,400,Optimization; Protocols; Python; Network; Telecom; 5G; RF; Planning,SIMULATED - NOT NSQF VERIFIED
+COURSE0453,Civil CAD Technician - Training Module 453,Construction,5,200,Surveying; BIM; Codes; Quantity; AutoCAD,SIMULATED - NOT NSQF VERIFIED
+COURSE0454,Retail Associate - Training Module 454,Retail,5.5,300,Communication; Service; Sales; Inventory; POS; Management; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0455,Banking Operations Associate - Training Module 455,BFSI,3.5,300,KYC; AML; Compliance; Banking; Customer; Service; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0456,Civil CAD Technician - Training Module 456,Construction,5,200,Quantity; Surveying; Revit; AutoCAD; Building; Codes,SIMULATED - NOT NSQF VERIFIED
+COURSE0457,Technical Trainer - Training Module 457,"Education, Training & Research",5,200,LMS; Python; Curriculum; Teaching; Assessment; Design,SIMULATED - NOT NSQF VERIFIED
+COURSE0458,Healthcare Assistant - Training Module 458,Healthcare,4.5,120,Signs; Control; Patient; First; Infection,SIMULATED - NOT NSQF VERIFIED
+COURSE0459,Site Safety Supervisor - Training Module 459,Construction,5.5,800,Risk; Inspection; Occupational; Safety; Assessment; Site; Compliance; PPE,SIMULATED - NOT NSQF VERIFIED
+COURSE0460,Instructional Designer - Training Module 460,"Education, Training & Research",4.5,400,Accessibility; Assessment; Development; Design; LMS; Curriculum; Content,SIMULATED - NOT NSQF VERIFIED
+COURSE0461,Retail Associate - Training Module 461,Retail,4.5,600,Inventory; POS; Service; Communication; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0462,Instructional Designer - Training Module 462,"Education, Training & Research",3.5,800,Curriculum; Design; LMS; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0463,Financial Analyst - Training Module 463,BFSI,3.5,800,Risk; SQL; Financial; Power; BI; Modeling; Analysis; Accounting,SIMULATED - NOT NSQF VERIFIED
+COURSE0464,Network Technician - Training Module 464,Telecom,4.5,400,Troubleshooting; Networking; Switching; Fiber; Optics; Routing,SIMULATED - NOT NSQF VERIFIED
+COURSE0465,Data Analyst - Training Module 465,IT-ITeS,4.5,200,Power; Tableau; SQL; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0466,Cybersecurity Analyst - Training Module 466,IT-ITeS,6,300,Cloud; Python; SIEM; Security; Security; Network; Incident; Response; Linux,SIMULATED - NOT NSQF VERIFIED
+COURSE0467,Automotive QA Inspector - Training Module 467,Automotive,5,800,Standards; Root; Analysis; Quality; Inspection; Cause; Metrology; ISO,SIMULATED - NOT NSQF VERIFIED
+COURSE0468,Financial Analyst - Training Module 468,BFSI,4.5,300,SQL; Accounting; Power; Risk; Modeling,SIMULATED - NOT NSQF VERIFIED
+COURSE0469,Automotive QA Inspector - Training Module 469,Automotive,4,400,Quality; Analysis; Inspection; Metrology; ISO,SIMULATED - NOT NSQF VERIFIED
+COURSE0470,Financial Analyst - Training Module 470,BFSI,3,800,Excel; Modeling; Accounting; Risk; Power; SQL; Financial; BI; Analysis,SIMULATED - NOT NSQF VERIFIED
+COURSE0471,Instructional Designer - Training Module 471,"Education, Training & Research",4,600,Development; Accessibility; LMS; Design; Curriculum; Assessment; Content,SIMULATED - NOT NSQF VERIFIED
+COURSE0472,Retail Associate - Training Module 472,Retail,5,120,Customer; Management; Communication; POS; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0473,Technical Trainer - Training Module 473,"Education, Training & Research",5,600,Curriculum; LMS; Design; Assessment; Teaching,SIMULATED - NOT NSQF VERIFIED
+COURSE0474,Site Safety Supervisor - Training Module 474,Construction,6,120,Compliance; Site; Risk; PPE; Assessment; Safety; Occupational; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0475,ML Engineer - Training Module 475,IT-ITeS,6,400,Docker; Python; PyTorch; AWS; TensorFlow,SIMULATED - NOT NSQF VERIFIED
+COURSE0476,Data Scientist - Training Module 476,IT-ITeS,3.5,120,Statistics; SQL; Learning; Scikit-learn; Machine; Pandas,SIMULATED - NOT NSQF VERIFIED
+COURSE0477,5G Engineer - Training Module 477,Telecom,5.5,600,5G; Optimization; Telecom; Python; Network,SIMULATED - NOT NSQF VERIFIED
+COURSE0478,Precision Farming Technician - Training Module 478,Agriculture,5.5,200,Drone; Sensors; Mapping; Collection; IoT; Data; Testing; GIS; Soil,SIMULATED - NOT NSQF VERIFIED
+COURSE0479,Financial Analyst - Training Module 479,BFSI,5.5,800,BI; Power; Accounting; SQL; Excel; Modeling; Financial; Analysis; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0480,Hotel Operations Associate - Training Module 480,Tourism & Hospitality,4,120,Guest; Housekeeping; Communication; Systems; Reservation,SIMULATED - NOT NSQF VERIFIED
+COURSE0481,EV Technician - Training Module 481,Automotive,4.5,200,Safety; Charging; Battery; Maintenance,SIMULATED - NOT NSQF VERIFIED
+COURSE0482,Hotel Operations Associate - Training Module 482,Tourism & Hospitality,4,200,Communication; Guest; Systems; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0483,Instructional Designer - Training Module 483,"Education, Training & Research",4,120,Assessment; Development; LMS; Accessibility,SIMULATED - NOT NSQF VERIFIED
+COURSE0484,Food Processing Technician - Training Module 484,Agriculture,3.5,300,HACCP; Food; Safety; Equipment; Packaging; Control,SIMULATED - NOT NSQF VERIFIED
+COURSE0485,5G Engineer - Training Module 485,Telecom,5,800,Protocols; Telecom; Python; Planning; RF; 5G; Network; Optimization,SIMULATED - NOT NSQF VERIFIED
+COURSE0486,Healthcare Assistant - Training Module 486,Healthcare,6,400,Documentation; Vital; Signs; First,SIMULATED - NOT NSQF VERIFIED
+COURSE0487,Health Data Analyst - Training Module 487,Healthcare,5.5,400,SQL; Python; BI; Excel; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0488,5G Engineer - Training Module 488,Telecom,4,400,5G; Protocols; Network; Optimization; Python; Planning,SIMULATED - NOT NSQF VERIFIED
+COURSE0489,Fraud Analyst - Training Module 489,BFSI,4,600,Risk; Detection; Assessment; Statistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0490,Hotel Operations Associate - Training Module 490,Tourism & Hospitality,6,200,Housekeeping; Systems; Service; Reservation; Communication; Guest,SIMULATED - NOT NSQF VERIFIED
+COURSE0491,Technical Trainer - Training Module 491,"Education, Training & Research",3.5,600,Design; Teaching; LMS; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0492,Automotive QA Inspector - Training Module 492,Automotive,4,800,Root; Inspection; Analysis; Metrology; Standards; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0493,Supply Chain Analyst - Training Module 493,Retail,3.5,200,BI; SQL; Inventory; Excel; Power; Logistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0494,Data Scientist - Training Module 494,IT-ITeS,5.5,200,Python; SQL; Statistics; Visualization; Machine; Data; Learning; Scikit-learn; Pandas; Git,SIMULATED - NOT NSQF VERIFIED
+COURSE0495,Retail Associate - Training Module 495,Retail,5,120,POS; Service; Sales; Customer; Inventory; Management; Communication,SIMULATED - NOT NSQF VERIFIED
+COURSE0496,Site Safety Supervisor - Training Module 496,Construction,5.5,300,Safety; Assessment; Site; Occupational; Risk; Inspection; Compliance; PPE,SIMULATED - NOT NSQF VERIFIED
+COURSE0497,Data Scientist - Training Module 497,IT-ITeS,5.5,300,Scikit-learn; Visualization; Python; SQL; Machine; Pandas; Git; Data,SIMULATED - NOT NSQF VERIFIED
+COURSE0498,Medical Lab Technician - Training Module 498,Healthcare,6,120,Control; Quality; Laboratory; Safety; Records,SIMULATED - NOT NSQF VERIFIED
+COURSE0499,Technical Trainer - Training Module 499,"Education, Training & Research",3,800,Teaching; Python; LMS; Curriculum; Assessment; Design,SIMULATED - NOT NSQF VERIFIED
+COURSE0500,Cloud Engineer - Training Module 500,IT-ITeS,4,800,Kubernetes; CI/CD; Docker; Azure; Linux; AWS; Terraform,SIMULATED - NOT NSQF VERIFIED
+COURSE0501,Cybersecurity Analyst - Training Module 501,IT-ITeS,3,120,Security; Incident; SIEM; Python; Linux; Cloud; Security; Response; Network,SIMULATED - NOT NSQF VERIFIED
+COURSE0502,Ecommerce Specialist - Training Module 502,Retail,3,400,Marketing; Acquisition; Digital,SIMULATED - NOT NSQF VERIFIED
+COURSE0503,Food Processing Technician - Training Module 503,Agriculture,4,600,Equipment; Packaging; Food,SIMULATED - NOT NSQF VERIFIED
+COURSE0504,Banking Operations Associate - Training Module 504,BFSI,4,600,Service; Banking; Compliance; Customer,SIMULATED - NOT NSQF VERIFIED
+COURSE0505,Cloud Engineer - Training Module 505,IT-ITeS,5,120,Terraform; AWS; Kubernetes; Linux; Docker; Azure; CI/CD,SIMULATED - NOT NSQF VERIFIED
+COURSE0506,Instructional Designer - Training Module 506,"Education, Training & Research",4,200,Curriculum; Content; Design; Accessibility; Development; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0507,Medical Lab Technician - Training Module 507,Healthcare,3.5,200,Control; Hematology; Medical; Laboratory; Safety; Records,SIMULATED - NOT NSQF VERIFIED
+COURSE0508,Data Analyst - Training Module 508,IT-ITeS,5,400,Python; BI; Statistics; Power; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0509,Web Developer - Training Module 509,IT-ITeS,5.5,600,REST; HTML; React; JavaScript; CSS; Git; Node.js,SIMULATED - NOT NSQF VERIFIED
+COURSE0510,Data Analyst - Training Module 510,IT-ITeS,4,400,Python; Power; Excel; Statistics; Tableau; SQL; BI,SIMULATED - NOT NSQF VERIFIED
+COURSE0511,Hotel Operations Associate - Training Module 511,Tourism & Hospitality,3,200,Service; Housekeeping; Reservation; Guest; Communication,SIMULATED - NOT NSQF VERIFIED
+COURSE0512,Supply Chain Analyst - Training Module 512,Retail,6,200,SQL; Excel; Power; Inventory; Forecasting,SIMULATED - NOT NSQF VERIFIED
+COURSE0513,Supply Chain Analyst - Training Module 513,Retail,5.5,200,Inventory; SQL; BI; Logistics; Forecasting; Power; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0514,Data Analyst - Training Module 514,IT-ITeS,6,600,Python; BI; Statistics; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0515,Site Safety Supervisor - Training Module 515,Construction,6,600,Safety; PPE; Inspection; Assessment; Occupational; Site; Compliance; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0516,Web Developer - Training Module 516,IT-ITeS,6,400,MongoDB; JavaScript; React; Git; HTML; CSS,SIMULATED - NOT NSQF VERIFIED
+COURSE0517,Fraud Analyst - Training Module 517,BFSI,3,200,Risk; Fraud; Statistics; Detection; SQL; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0518,Medical Lab Technician - Training Module 518,Healthcare,5.5,600,Safety; Records; Hematology; Quality; Control; Laboratory; Sample,SIMULATED - NOT NSQF VERIFIED
+COURSE0519,Cybersecurity Analyst - Training Module 519,IT-ITeS,3.5,120,Incident; Security; Response; Python; Network; Security; Linux,SIMULATED - NOT NSQF VERIFIED
+COURSE0520,Healthcare Assistant - Training Module 520,Healthcare,5.5,600,Care; Control; Signs; First; Aid,SIMULATED - NOT NSQF VERIFIED
+COURSE0521,Fraud Analyst - Training Module 521,BFSI,3.5,800,Assessment; Statistics; Detection; SQL; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0522,ML Engineer - Training Module 522,IT-ITeS,3,120,MLOps; TensorFlow; Python; AWS; Kubernetes,SIMULATED - NOT NSQF VERIFIED
+COURSE0523,CNC Operator - Training Module 523,Automotive,5,800,Quality; Machine; CNC; Programming; CAM; CAD,SIMULATED - NOT NSQF VERIFIED
+COURSE0524,Retail Associate - Training Module 524,Retail,6,300,Customer; POS; Service; Sales; Communication; Inventory; Management,SIMULATED - NOT NSQF VERIFIED
+COURSE0525,Web Developer - Training Module 525,IT-ITeS,3.5,120,REST; React; Node.js; MongoDB; JavaScript,SIMULATED - NOT NSQF VERIFIED
+COURSE0526,Supply Chain Analyst - Training Module 526,Retail,5.5,200,BI; Power; Inventory; Forecasting; Excel; Logistics,SIMULATED - NOT NSQF VERIFIED
+COURSE0527,Hotel Operations Associate - Training Module 527,Tourism & Hospitality,6,800,Reservation; Housekeeping; Communication; Guest; Service,SIMULATED - NOT NSQF VERIFIED
+COURSE0528,Hotel Operations Associate - Training Module 528,Tourism & Hospitality,4,600,Service; Guest; Housekeeping,SIMULATED - NOT NSQF VERIFIED
+COURSE0529,Data Analyst - Training Module 529,IT-ITeS,3,200,SQL; Statistics; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0530,Network Technician - Training Module 530,Telecom,5,300,Routing; Networking; Switching; Troubleshooting; Optics; Fiber,SIMULATED - NOT NSQF VERIFIED
+COURSE0531,Retail Associate - Training Module 531,Retail,5.5,120,POS; Communication; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0532,Precision Farming Technician - Training Module 532,Agriculture,5,800,Mapping; Testing; GIS; Soil,SIMULATED - NOT NSQF VERIFIED
+COURSE0533,Network Technician - Training Module 533,Telecom,3,800,Switching; Networking; Fiber; Optics; Routing,SIMULATED - NOT NSQF VERIFIED
+COURSE0534,Technical Trainer - Training Module 534,"Education, Training & Research",4.5,200,Python; Teaching; Curriculum; Design; LMS; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0535,EV Technician - Training Module 535,Automotive,6,120,Diagnostics; Maintenance; Charging; EV,SIMULATED - NOT NSQF VERIFIED
+COURSE0536,Automotive QA Inspector - Training Module 536,Automotive,3.5,400,Standards; Analysis; Cause; ISO; Metrology; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0537,Retail Associate - Training Module 537,Retail,5,120,Customer; Sales; Communication; Service; POS; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0538,Data Scientist - Training Module 538,IT-ITeS,4,400,Python; Pandas; Git; Learning; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0539,ML Engineer - Training Module 539,IT-ITeS,5,200,Docker; PyTorch; Python; MLOps; AWS; TensorFlow; Git; Kubernetes,SIMULATED - NOT NSQF VERIFIED
+COURSE0540,CNC Operator - Training Module 540,Automotive,3.5,400,Inspection; CNC; Operation; Machine; Quality; Programming,SIMULATED - NOT NSQF VERIFIED
+COURSE0541,Supply Chain Analyst - Training Module 541,Retail,3,300,Forecasting; BI; Excel; Logistics; Power; Inventory,SIMULATED - NOT NSQF VERIFIED
+COURSE0542,Cloud Engineer - Training Module 542,IT-ITeS,6,300,Docker; Azure; Terraform; AWS,SIMULATED - NOT NSQF VERIFIED
+COURSE0543,Web Developer - Training Module 543,IT-ITeS,4.5,400,CSS; Git; MongoDB; REST; React; JavaScript; Node.js,SIMULATED - NOT NSQF VERIFIED
+COURSE0544,Automotive QA Inspector - Training Module 544,Automotive,6,600,Root; Metrology; Quality; Inspection; Standards; Analysis; ISO,SIMULATED - NOT NSQF VERIFIED
+COURSE0545,Financial Analyst - Training Module 545,BFSI,4,200,SQL; Power; Excel; Accounting; BI; Modeling; Risk; Financial,SIMULATED - NOT NSQF VERIFIED
+COURSE0546,Automotive QA Inspector - Training Module 546,Automotive,5,200,ISO; Root; Quality; Analysis; Inspection; Standards; Metrology; Cause,SIMULATED - NOT NSQF VERIFIED
+COURSE0547,Medical Lab Technician - Training Module 547,Healthcare,6,200,Collection; Control; Sample; Quality; Laboratory; Records; Medical,SIMULATED - NOT NSQF VERIFIED
+COURSE0548,ML Engineer - Training Module 548,IT-ITeS,6,800,Python; Git; MLOps; TensorFlow; AWS; Docker; Kubernetes; PyTorch,SIMULATED - NOT NSQF VERIFIED
+COURSE0549,Cybersecurity Analyst - Training Module 549,IT-ITeS,4.5,600,Cloud; Response; Linux; Network; Python; Security; SIEM,SIMULATED - NOT NSQF VERIFIED
+COURSE0550,Site Safety Supervisor - Training Module 550,Construction,5,200,Site; Risk; PPE; Safety; Inspection,SIMULATED - NOT NSQF VERIFIED
+COURSE0551,Network Technician - Training Module 551,Telecom,5,800,Optics; Routing; Switching,SIMULATED - NOT NSQF VERIFIED
+COURSE0552,Food Processing Technician - Training Module 552,Agriculture,5,200,Packaging; Quality; Food; Equipment,SIMULATED - NOT NSQF VERIFIED
+COURSE0553,Financial Analyst - Training Module 553,BFSI,4.5,800,Accounting; SQL; Power; Financial; Analysis; BI; Modeling,SIMULATED - NOT NSQF VERIFIED
+COURSE0554,Fraud Analyst - Training Module 554,BFSI,5,800,Assessment; Fraud; Statistics; Risk,SIMULATED - NOT NSQF VERIFIED
+COURSE0555,Ecommerce Specialist - Training Module 555,Retail,3,300,Customer; SEO; Analytics; Marketing; Acquisition; Digital,SIMULATED - NOT NSQF VERIFIED
+COURSE0556,Retail Associate - Training Module 556,Retail,5,400,Inventory; POS; Communication; Service; Management; Customer; Sales,SIMULATED - NOT NSQF VERIFIED
+COURSE0557,Hospitality Revenue Analyst - Training Module 557,Tourism & Hospitality,4,800,Pricing; Analytics; Excel; Forecasting; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0558,Network Technician - Training Module 558,Telecom,6,200,Troubleshooting; Fiber; Switching; Networking; Optics; Routing,SIMULATED - NOT NSQF VERIFIED
+COURSE0559,Data Scientist - Training Module 559,IT-ITeS,3.5,120,Python; Visualization; Statistics; Scikit-learn; Learning; Pandas; Data; Git; Machine,SIMULATED - NOT NSQF VERIFIED
+COURSE0560,Web Developer - Training Module 560,IT-ITeS,5.5,200,JavaScript; React; Git; CSS; Node.js; REST; MongoDB,SIMULATED - NOT NSQF VERIFIED
+COURSE0561,Cloud Engineer - Training Module 561,IT-ITeS,6,800,Azure; Linux; Kubernetes,SIMULATED - NOT NSQF VERIFIED
+COURSE0562,Food Processing Technician - Training Module 562,Agriculture,4.5,400,Packaging; Control; Food; Safety; Equipment; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0563,Civil CAD Technician - Training Module 563,Construction,5,120,Surveying; Building; AutoCAD; BIM; Codes; Quantity; Revit,SIMULATED - NOT NSQF VERIFIED
+COURSE0564,Site Safety Supervisor - Training Module 564,Construction,6,400,Inspection; PPE; Occupational; Compliance; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0565,Fraud Analyst - Training Module 565,BFSI,6,600,Assessment; Detection; Python; Statistics; Fraud,SIMULATED - NOT NSQF VERIFIED
+COURSE0566,Healthcare Assistant - Training Module 566,Healthcare,4,400,Control; Infection; Vital; Care; Aid; First,SIMULATED - NOT NSQF VERIFIED
+COURSE0567,Data Scientist - Training Module 567,IT-ITeS,4.5,800,Python; Statistics; Learning; Machine; SQL; Visualization; Git,SIMULATED - NOT NSQF VERIFIED
+COURSE0568,Retail Associate - Training Module 568,Retail,3,400,Service; Management; Communication,SIMULATED - NOT NSQF VERIFIED
+COURSE0569,Banking Operations Associate - Training Module 569,BFSI,3,400,Compliance; KYC; Banking; Customer; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0570,Cloud Engineer - Training Module 570,IT-ITeS,5.5,800,CI/CD; Docker; AWS; Kubernetes; Linux; Terraform,SIMULATED - NOT NSQF VERIFIED
+COURSE0571,Ecommerce Specialist - Training Module 571,Retail,4,800,Customer; Analytics; SEO; Shopify,SIMULATED - NOT NSQF VERIFIED
+COURSE0572,Precision Farming Technician - Training Module 572,Agriculture,3.5,800,IoT; Mapping; Sensors; Drone; Data; GIS; Soil; Testing,SIMULATED - NOT NSQF VERIFIED
+COURSE0573,Food Processing Technician - Training Module 573,Agriculture,4,300,HACCP; Safety; Food; Control; Equipment; Packaging,SIMULATED - NOT NSQF VERIFIED
+COURSE0574,Data Analyst - Training Module 574,IT-ITeS,5.5,800,Python; SQL; Power; Tableau; Statistics; BI; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0575,Retail Associate - Training Module 575,Retail,3,300,Communication; Inventory; POS,SIMULATED - NOT NSQF VERIFIED
+COURSE0576,Supply Chain Analyst - Training Module 576,Retail,6,600,BI; Inventory; Excel; Power; Logistics; Forecasting; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0577,Medical Lab Technician - Training Module 577,Healthcare,3.5,400,Records; Laboratory; Hematology; Medical,SIMULATED - NOT NSQF VERIFIED
+COURSE0578,Food Processing Technician - Training Module 578,Agriculture,4,600,Control; Safety; HACCP; Packaging,SIMULATED - NOT NSQF VERIFIED
+COURSE0579,Instructional Designer - Training Module 579,"Education, Training & Research",3,120,Content; Accessibility; Assessment,SIMULATED - NOT NSQF VERIFIED
+COURSE0580,Site Safety Supervisor - Training Module 580,Construction,4.5,800,Site; Occupational; Compliance; Inspection; Risk; PPE; Safety,SIMULATED - NOT NSQF VERIFIED
+COURSE0581,Instructional Designer - Training Module 581,"Education, Training & Research",5.5,120,Design; Development; Curriculum; LMS; Assessment; Content,SIMULATED - NOT NSQF VERIFIED
+COURSE0582,Cybersecurity Analyst - Training Module 582,IT-ITeS,3,600,Linux; Cloud; Network; Incident; Security; SIEM; Security,SIMULATED - NOT NSQF VERIFIED
+COURSE0583,Banking Operations Associate - Training Module 583,BFSI,4.5,120,Service; Excel; Customer; AML,SIMULATED - NOT NSQF VERIFIED
+COURSE0584,CNC Operator - Training Module 584,Automotive,5,300,CNC; CAD; Programming; CAM; Operation; Quality,SIMULATED - NOT NSQF VERIFIED
+COURSE0585,Health Data Analyst - Training Module 585,Healthcare,4,300,Privacy; Healthcare; Data; Power; Python,SIMULATED - NOT NSQF VERIFIED
+COURSE0586,Web Developer - Training Module 586,IT-ITeS,4,200,Node.js; MongoDB; React; REST; Git; CSS,SIMULATED - NOT NSQF VERIFIED
+COURSE0587,Data Analyst - Training Module 587,IT-ITeS,5.5,120,Excel; BI; SQL; Statistics; Python; Tableau,SIMULATED - NOT NSQF VERIFIED
+COURSE0588,Precision Farming Technician - Training Module 588,Agriculture,5.5,300,IoT; Testing; Drone; Data; Mapping,SIMULATED - NOT NSQF VERIFIED
+COURSE0589,Data Analyst - Training Module 589,IT-ITeS,3,200,Tableau; BI; SQL; Excel; Python; Statistics; Power,SIMULATED - NOT NSQF VERIFIED
+COURSE0590,Cybersecurity Analyst - Training Module 590,IT-ITeS,6,200,Security; Python; Cloud; Security; Incident; SIEM; Response,SIMULATED - NOT NSQF VERIFIED
+COURSE0591,Financial Analyst - Training Module 591,BFSI,5.5,200,Power; Excel; SQL; Risk; BI; Accounting,SIMULATED - NOT NSQF VERIFIED
+COURSE0592,Health Data Analyst - Training Module 592,Healthcare,5,120,BI; Data; Excel; Python; Power; Healthcare,SIMULATED - NOT NSQF VERIFIED
+COURSE0593,Supply Chain Analyst - Training Module 593,Retail,4.5,800,Power; Logistics; Inventory; Forecasting; SQL; BI; Excel,SIMULATED - NOT NSQF VERIFIED
+COURSE0594,Financial Analyst - Training Module 594,BFSI,5.5,600,Power; Risk; BI; Accounting,SIMULATED - NOT NSQF VERIFIED
+COURSE0595,Hotel Operations Associate - Training Module 595,Tourism & Hospitality,3.5,800,Reservation; Communication; Guest,SIMULATED - NOT NSQF VERIFIED
+COURSE0596,Hotel Operations Associate - Training Module 596,Tourism & Hospitality,3.5,200,Systems; Reservation; Housekeeping; Communication,SIMULATED - NOT NSQF VERIFIED
+COURSE0597,Health Data Analyst - Training Module 597,Healthcare,5.5,600,Excel; Analytics; Healthcare; SQL,SIMULATED - NOT NSQF VERIFIED
+COURSE0598,Healthcare Assistant - Training Module 598,Healthcare,3.5,120,Care; Aid; Control; Infection,SIMULATED - NOT NSQF VERIFIED
+COURSE0599,Instructional Designer - Training Module 599,"Education, Training & Research",4.5,300,Accessibility; Assessment; Development; Design,SIMULATED - NOT NSQF VERIFIED
+COURSE0600,Cybersecurity Analyst - Training Module 600,IT-ITeS,3,600,Security; Incident; Response; Linux; Cloud; Python,SIMULATED - NOT NSQF VERIFIED

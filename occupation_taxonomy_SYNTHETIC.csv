@@ -1,0 +1,11 @@
+category_id,category_name,data_status
+CAT01,IT-ITeS,SIMULATED
+CAT02,Healthcare,SIMULATED
+CAT03,Automotive,SIMULATED
+CAT04,BFSI,SIMULATED
+CAT05,Retail,SIMULATED
+CAT06,Construction,SIMULATED
+CAT07,Agriculture,SIMULATED
+CAT08,Telecom,SIMULATED
+CAT09,Tourism & Hospitality,SIMULATED
+CAT10,"Education, Training & Research",SIMULATED
